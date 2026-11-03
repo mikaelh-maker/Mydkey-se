@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mydkey.se/</loc></url>
-  <url><loc>https://mydkey.se/integritet.html</loc></url>
-  <url><loc>https://mydkey.se/en/</loc></url>
-  <url><loc>https://mydkey.se/en/privacy.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://mydkey.se/</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/"/>
+  </url>
+  <url><loc>https://mydkey.se/en/</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/"/>
+  </url>
+  <url><loc>https://mydkey.se/it-sakerhet.html</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/it-sakerhet.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/it-security.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/it-sakerhet.html"/>
+  </url>
+  <url><loc>https://mydkey.se/en/it-security.html</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/it-sakerhet.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/it-security.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/it-sakerhet.html"/>
+  </url>
+  <url><loc>https://mydkey.se/telefoni-vaxel.html</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/telefoni-vaxel.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/telephony.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/telefoni-vaxel.html"/>
+  </url>
+  <url><loc>https://mydkey.se/en/telephony.html</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/telefoni-vaxel.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/telephony.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/telefoni-vaxel.html"/>
+  </url>
+  <url><loc>https://mydkey.se/molninfrastruktur.html</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/molninfrastruktur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/cloud-infrastructure.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/molninfrastruktur.html"/>
+  </url>
+  <url><loc>https://mydkey.se/en/cloud-infrastructure.html</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/molninfrastruktur.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/cloud-infrastructure.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/molninfrastruktur.html"/>
+  </url>
+  <url><loc>https://mydkey.se/arbetsplats-hardvara.html</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/arbetsplats-hardvara.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/workplace-hardware.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/arbetsplats-hardvara.html"/>
+  </url>
+  <url><loc>https://mydkey.se/en/workplace-hardware.html</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/arbetsplats-hardvara.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/workplace-hardware.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/arbetsplats-hardvara.html"/>
+  </url>
+  <url><loc>https://mydkey.se/it-radgivning.html</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/it-radgivning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/it-advisory.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/it-radgivning.html"/>
+  </url>
+  <url><loc>https://mydkey.se/en/it-advisory.html</loc><lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://mydkey.se/it-radgivning.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mydkey.se/en/it-advisory.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mydkey.se/it-radgivning.html"/>
+  </url>
 </urlset>

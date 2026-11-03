@@ -210,7 +210,7 @@ html:not(.js) .areas__nav { display: none; }
 
 /* Sidfot */
 .footer { background: #0b1016; color: var(--muted); padding: 48px 0 24px; font-size: 0.95rem; border-top: 1px solid var(--line); }
-.footer__in { display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 28px 40px; }
+.footer__in { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 28px 40px; }
 .footer p { margin: 8px 0 0; }
 .footer a { color: #cbd8e3; }
 .footer__nav { display: grid; gap: 8px; align-content: start; }
@@ -219,6 +219,35 @@ html:not(.js) .areas__nav { display: none; }
 .footer__legal p:first-child { margin-top: 0; }
 .footer__copy { margin-top: 32px; padding-top: 18px; border-top: 1px solid var(--line); font-size: 0.88rem; }
 .footer__copy p { margin: 0; }
+
+/* Tjänstesidor */
+.panel__more { margin: 22px 0 0; }
+.panel__more a { font-weight: 600; text-decoration: none; }
+.panel__more a:hover { text-decoration: underline; }
+.svc-hero { position: relative; padding: 56px 0 64px; background: radial-gradient(1100px 520px at 88% -10%, #263648 0%, var(--bg) 62%); border-bottom: 1px solid var(--line); }
+.svc-hero .lead { max-width: 40em; }
+.crumbs ol { list-style: none; margin: 0 0 28px; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; font-size: 0.9rem; color: var(--muted); }
+.crumbs li + li::before { content: "/"; margin-right: 6px; opacity: 0.6; }
+.crumbs a { color: var(--muted); text-decoration: none; }
+.crumbs a:hover { color: #fff; text-decoration: underline; }
+.svc-grid { display: grid; grid-template-columns: 1.5fr 1fr; gap: 32px; align-items: start; }
+.svc-grid .panel { margin: 0; }
+.svc-h { font-size: 1.35rem; margin: 0 0 16px; }
+.svc-how { list-style: none; counter-reset: h; margin: 0; padding: 0; display: grid; gap: 18px; }
+.svc-how li { counter-increment: h; position: relative; padding-left: 52px; color: #cbd8e3; min-height: 36px; }
+.svc-how li::before { content: counter(h); position: absolute; left: 0; top: -2px; width: 36px; height: 36px; border-radius: 50%; border: 2px solid var(--cyan); color: var(--cyan); background: var(--cyan-soft); font-weight: 700; display: grid; place-items: center; }
+.faq { display: grid; gap: 12px; margin-top: 24px; }
+.faq details { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 0 22px; }
+.faq details[open] { border-color: rgba(60, 195, 240, 0.5); }
+.faq summary { cursor: pointer; list-style: none; padding: 18px 28px 18px 0; font-weight: 600; color: #fff; position: relative; }
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after { content: "+"; position: absolute; right: 0; top: 14px; font-size: 1.4rem; color: var(--cyan); }
+.faq details[open] summary::after { content: "–"; }
+.faq details p { margin: 0 0 18px; }
+.related { list-style: none; margin: 24px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+.related a { display: block; padding: 16px 18px; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; color: #fff; font-weight: 600; text-decoration: none; transition: border-color 0.15s ease, transform 0.15s ease; }
+.related a::after { content: " →"; color: var(--cyan); }
+.related a:hover { border-color: var(--cyan); transform: translateY(-1px); }
 
 /* Integritetssida */
 .page { padding: 64px 0 80px; }
@@ -248,7 +277,10 @@ html:not(.js) .areas__nav { display: none; }
   .res__head { grid-template-columns: 1fr; justify-items: start; }
   .gaps li { padding: 20px 18px 20px 18px; padding-top: 62px; }
   .gaps li::before { left: 18px; top: 18px; }
-  .footer__in { grid-template-columns: 1fr; }
+  .footer__in { grid-template-columns: 1fr 1fr; }
+  .footer__brand, .footer__legal { grid-column: 1 / -1; }
+  .svc-grid { grid-template-columns: 1fr; }
+  .svc-hero { padding: 36px 0 48px; }
   .nav li:not(:last-child):not(.nav__lang) { display: none; }
 }
 
