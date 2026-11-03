@@ -35,6 +35,17 @@
     select(tabs[0], false);
   });
 
+  /* ---------- Illustrationer: animera bara det som syns ---------- */
+  var scenes = document.querySelectorAll('.scene, .vision');
+  if ('IntersectionObserver' in window) {
+    var sceneObs = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) { e.target.classList.toggle('is-live', e.isIntersecting); });
+    }, { rootMargin: '80px' });
+    scenes.forEach(function (s) { sceneObs.observe(s); });
+  } else {
+    scenes.forEach(function (s) { s.classList.add('is-live'); });
+  }
+
   /* ---------- Säkerhetskontroll för ledningen ---------- */
   var QUESTIONS = [
     {
