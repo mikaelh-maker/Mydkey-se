@@ -47,7 +47,9 @@
   }
 
   /* ---------- Säkerhetskontroll för ledningen ---------- */
-  var QUESTIONS = [
+  var EN = (document.documentElement.lang || '').slice(0, 2) === 'en';
+
+  var QUESTIONS_SV = [
     {
       theme: 'Människor', short: 'Rutiner mot bedrägeri vid betalningar', weight: 4,
       q: 'Vet era medarbetare vad de ska göra om de får ett mejl som verkar komma från er eller ekonomichefen och ber om en brådskande betalning?',
@@ -106,12 +108,104 @@
     }
   ];
 
-  var BANDS = [
+  var QUESTIONS_EN = [
+    {
+      theme: 'People', short: 'Procedures against payment fraud', weight: 4,
+      q: 'Do your employees know what to do if they receive an email that appears to come from you or the finance manager asking for an urgent payment?',
+      help: 'Fake CEO emails and changed bank details are among the most common fraud methods against businesses.',
+      why: 'Invoice fraud costs businesses large sums every year, and a single careless payment is enough.',
+      fix: 'Introduce a simple rule: payments and changed bank details are always confirmed by phone. Run a short briefing with those who handle finances.'
+    },
+    {
+      theme: 'Accounts and access', short: 'Sign-in with more than a password', weight: 5,
+      q: 'Does everyone have to sign in with more than just a password, for example a code on their phone, to access email and company systems?',
+      help: 'This is called multi-factor authentication, or MFA.',
+      why: 'Stolen passwords are the most common way in. Without an extra step, a single leaked password is enough for someone to read your email.',
+      fix: 'Turn on multi-factor authentication for all accounts, starting with email and administrators. It often takes only a few hours.'
+    },
+    {
+      theme: 'Continuity', short: 'Ability to restore the business', weight: 5,
+      q: 'If your computers and files became inaccessible tomorrow, for example because of ransomware, do you know that you can get the business running again, and how long it would take?',
+      help: 'Having a backup is not enough. It has to have been tested.',
+      why: 'Many companies have a backup that has never been tested, and only discover in a crisis that it does not work.',
+      fix: 'Test restoring your most important data and write down how long it takes. Then you know what an outage would cost.'
+    },
+    {
+      theme: 'Preparedness', short: 'Plan for the first hours of a breach', weight: 4,
+      q: 'Is there a short plan for who does what during the first hour after a breach, and who calls whom?',
+      help: 'It does not need to be longer than one page.',
+      why: 'The first hours decide how much damage is done. Without a plan, time is spent thinking instead of acting.',
+      fix: 'Write a one-page incident plan with responsible people, phone numbers and the first steps. Then run an exercise.'
+    },
+    {
+      theme: 'Accounts and access', short: 'Removing access when someone leaves', weight: 2,
+      q: 'Is an employee’s access to email and systems closed on the same day they leave?',
+      help: 'This also applies to consultants and temporary staff.',
+      why: 'Old accounts that stay active are an open door, and they are rarely noticed.',
+      fix: 'Introduce a checklist for joiners and leavers, with one responsible person who ticks it off.'
+    },
+    {
+      theme: 'Everyday technology', short: 'Ongoing updates', weight: 3,
+      q: 'Are computers, phones and servers updated continuously, without anyone having to remember to do it?',
+      help: 'The longer a fix is delayed, the longer you are exposed to known attacks.',
+      why: 'Most breaches exploit known weaknesses for which a fix already exists.',
+      fix: 'Turn on automatic updates and check once a month that all devices are included.'
+    },
+    {
+      theme: 'Trust', short: 'Protection against forged emails in your name', weight: 3,
+      q: 'Is your company’s email domain protected against others sending email in your name?',
+      help: 'Technically, the protection is called SPF, DKIM and DMARC. Your IT provider or I can check it in a few minutes.',
+      why: 'Forged emails in your name damage trust among customers and suppliers, and are used for fraud.',
+      fix: 'Configure SPF, DKIM and DMARC for your domain. I can check your domain in a few minutes.'
+    },
+    {
+      theme: 'Management', short: 'Management overview of security', weight: 2,
+      q: 'Does management receive a short report on the security situation and the biggest risks at least once a year?',
+      help: 'Security is a management responsibility, not just a technical issue.',
+      why: 'Without an overview, what is urgent gets prioritised over what is important, and responsibility becomes unclear.',
+      fix: 'Produce a simple annual risk picture: what is most valuable, what threatens it, and what is being done about it.'
+    }
+  ];
+  var QUESTIONS = EN ? QUESTIONS_EN : QUESTIONS_SV;
+
+  var BANDS_EN = [
+    { min: 85, name: 'Strong foundation', color: 'var(--green)', text: 'You have most things in place. The next step is to test your procedures and keep them up to date, so that protection holds as the business changes.' },
+    { min: 60, name: 'Good level, but with gaps', color: 'var(--cyan)', text: 'The foundation is there, but some important parts are missing or only partly in place. Simple actions often have the greatest effect.' },
+    { min: 35, name: 'Noticeable risks', color: 'var(--amber)', text: 'Several key protections are missing. An attack would probably have clear consequences for the business. Start with the three actions below.' },
+    { min: 0, name: 'High risk: act now', color: 'var(--red)', text: 'Important protections are missing, and an attack could stop the business. It is possible to improve a lot very quickly with the right priorities.' }
+  ];
+
+  var T = EN ? {
+    choices: [['Yes', 'It is in place'], ['Partly', 'In some ways or places'], ['No', 'Or don’t know']],
+    step: function (i, n) { return 'Question ' + i + ' of ' + n; },
+    top: function (n) { return 'The ' + (n === 1 ? 'most important action' : n + ' most important actions'); },
+    partly: ' (partly in place)', why: 'Why it matters:', first: 'First step:',
+    noGaps: 'No gaps found', noGapsText: 'You answered yes to everything. The next step is to regularly test that your protections work.',
+    works: 'What already works', labels: { 2: 'Yes', 1: 'Partly', 0: 'No/don’t know' },
+    mailIntro: function (pct, band) { return 'Hi Mikael,\n\nI took the security check on mydkey.se and scored ' + pct + ' % (' + band + ').\n\nMy answers:\n'; },
+    mailOutro: '\n\nI would like to talk about the result.\n', subject: function (pct) { return 'Security check: ' + pct + ' %'; },
+    book: 'Book a call about the result', redo: 'Take the check again',
+    fine: 'This is a quick indication based on your own answers, not an audit. Nothing is stored or sent unless you choose to email it.'
+  } : {
+    choices: [['Ja', 'Det är på plats'], ['Delvis', 'På vissa sätt eller ställen'], ['Nej', 'Eller vet inte']],
+    step: function (i, n) { return 'Fråga ' + i + ' av ' + n; },
+    top: function (n) { return 'De ' + (n === 1 ? 'viktigaste åtgärden' : n + ' viktigaste åtgärderna'); },
+    partly: ' (delvis på plats)', why: 'Varför det spelar roll:', first: 'Första steget:',
+    noGaps: 'Inga luckor hittades', noGapsText: 'Ni svarade ja på allt. Då är nästa steg att regelbundet testa att skydden fungerar.',
+    works: 'Det här fungerar redan', labels: { 2: 'Ja', 1: 'Delvis', 0: 'Nej/vet inte' },
+    mailIntro: function (pct, band) { return 'Hej Mikael,\n\nJag gjorde säkerhetskontrollen på mydkey.se och fick ' + pct + ' % (' + band + ').\n\nMina svar:\n'; },
+    mailOutro: '\n\nJag vill gärna prata om resultatet.\n', subject: function (pct) { return 'Säkerhetskontroll: ' + pct + ' %'; },
+    book: 'Boka ett samtal om resultatet', redo: 'Gör om kontrollen',
+    fine: 'Det här är en snabb indikation utifrån dina egna svar, inte en granskning. Inget sparas eller skickas förrän du själv väljer att mejla.'
+  };
+
+  var BANDS_SV = [
     { min: 85, name: 'Stark grund', color: 'var(--green)', text: 'Ni har det mesta på plats. Nästa steg är att testa rutinerna och hålla dem aktuella, så att skyddet håller även när verksamheten förändras.' },
     { min: 60, name: 'God nivå, men med luckor', color: 'var(--cyan)', text: 'Grunden finns, men några viktiga delar saknas eller är bara delvis på plats. Det är ofta enkla åtgärder som ger störst effekt.' },
     { min: 35, name: 'Märkbara risker', color: 'var(--amber)', text: 'Flera centrala skydd saknas. Ett angrepp skulle sannolikt få tydliga följder för verksamheten. Börja med de tre åtgärderna nedan.' },
     { min: 0, name: 'Hög risk: agera nu', color: 'var(--red)', text: 'Viktiga skydd saknas, och ett angrepp skulle kunna stoppa verksamheten. Det går att förbättra mycket snabbt med rätt prioritering.' }
   ];
+  var BANDS = EN ? BANDS_EN : BANDS_SV;
 
   var el = {
     start: document.getElementById('check-start'),
@@ -131,11 +225,9 @@
 
     el.start.hidden = false;
 
-    var CHOICES = [
-      { value: 2, label: 'Ja', sub: 'Det är på plats' },
-      { value: 1, label: 'Delvis', sub: 'På vissa sätt eller ställen' },
-      { value: 0, label: 'Nej', sub: 'Eller vet inte' }
-    ];
+    var CHOICES = [2, 1, 0].map(function (v, i) {
+      return { value: v, label: T.choices[i][0], sub: T.choices[i][1] };
+    });
 
     function show(which) {
       el.start.hidden = which !== 'start';
@@ -145,7 +237,7 @@
 
     function renderQuestion() {
       var q = QUESTIONS[idx];
-      el.step.innerHTML = '<b>Fråga ' + (idx + 1) + ' av ' + N + '</b> · ' + q.theme;
+      el.step.innerHTML = '<b>' + T.step(idx + 1, N) + '</b> · ' + q.theme;
       el.bar.setAttribute('aria-valuenow', String(idx));
       el.bar.firstElementChild.style.width = (idx / N * 100) + '%';
       el.back.hidden = idx === 0;
@@ -220,29 +312,29 @@
       html += '<div><p class="res__band" style="--c:' + band.color + '"><em>' + band.name + '</em></p><p class="res__text">' + band.text + '</p></div></div>';
 
       if (top.length) {
-        html += '<div><h4>De ' + (top.length === 1 ? 'viktigaste åtgärden' : top.length + ' viktigaste åtgärderna') + '</h4><ol class="gaps">';
+        html += '<div><h4>' + T.top(top.length) + '</h4><ol class="gaps">';
         top.forEach(function (g) {
-          html += '<li><h5>' + g.q.short + (g.a === 1 ? ' (delvis på plats)' : '') + '</h5><p><b>Varför det spelar roll:</b> ' + g.q.why + '</p><p><b>Första steget:</b> ' + g.q.fix + '</p></li>';
+          html += '<li><h5>' + g.q.short + (g.a === 1 ? T.partly : '') + '</h5><p><b>' + T.why + '</b> ' + g.q.why + '</p><p><b>' + T.first + '</b> ' + g.q.fix + '</p></li>';
         });
         html += '</ol></div>';
       } else {
-        html += '<div><h4>Inga luckor hittades</h4><p class="res__text">Ni svarade ja på allt. Då är nästa steg att regelbundet testa att skydden fungerar.</p></div>';
+        html += '<div><h4>' + T.noGaps + '</h4><p class="res__text">' + T.noGapsText + '</p></div>';
       }
 
       if (oks.length) {
-        html += '<div><h4>Det här fungerar redan</h4><ul class="ok-list">';
+        html += '<div><h4>' + T.works + '</h4><ul class="ok-list">';
         oks.forEach(function (q) { html += '<li>' + q.short + '</li>'; });
         html += '</ul></div>';
       }
 
-      var labels = { 2: 'Ja', 1: 'Delvis', 0: 'Nej/vet inte' };
-      var body = 'Hej Mikael,\n\nJag gjorde säkerhetskontrollen på mydkey.se och fick ' + pct + ' % (' + band.name + ').\n\nMina svar:\n' +
+      var labels = T.labels;
+      var body = T.mailIntro(pct, band.name) +
         QUESTIONS.map(function (q, i) { return '- ' + q.short + ': ' + labels[answers[i]]; }).join('\n') +
-        '\n\nJag vill gärna prata om resultatet.\n';
-      var href = 'mailto:mikael@mydkey.se?subject=' + encodeURIComponent('Säkerhetskontroll: ' + pct + ' %') + '&body=' + encodeURIComponent(body);
+        T.mailOutro;
+      var href = 'mailto:mikael@mydkey.se?subject=' + encodeURIComponent(T.subject(pct)) + '&body=' + encodeURIComponent(body);
 
-      html += '<div class="res__actions"><a class="btn btn--primary" href="' + href + '">Boka ett samtal om resultatet</a><button type="button" class="link-btn" id="check-redo">Gör om kontrollen</button></div>';
-      html += '<p class="res__fine">Det här är en snabb indikation utifrån dina egna svar, inte en granskning. Inget sparas eller skickas förrän du själv väljer att mejla.</p></div>';
+      html += '<div class="res__actions"><a class="btn btn--primary" href="' + href + '">' + T.book + '</a><button type="button" class="link-btn" id="check-redo">' + T.redo + '</button></div>';
+      html += '<p class="res__fine">' + T.fine + '</p></div>';
 
       el.result.innerHTML = html;
       show('result');
