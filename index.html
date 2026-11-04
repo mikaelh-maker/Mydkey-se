@@ -86,6 +86,17 @@
       </div>
     </section>
 
+    <!-- NYHETSFLÖDE (fylls från news.json, uppdateras automatiskt) -->
+    <section class="news" aria-labelledby="h-news" data-news="news.json" hidden>
+      <div class="wrap news__in">
+        <h2 class="news__label" id="h-news"><span class="news__dot" aria-hidden="true"></span>Aktuellt<span class="news__sub"> inom cybersäkerhet och IT</span></h2>
+        <div class="news__viewport">
+          <ul class="news__track" id="news-track"></ul>
+        </div>
+        <button class="news__toggle" type="button" id="news-toggle" aria-pressed="false">Pausa</button>
+      </div>
+    </section>
+
     <!-- NYCKELTAL -->
     <section class="facts" aria-label="Kort om Mydkey">
       <div class="wrap facts__in">

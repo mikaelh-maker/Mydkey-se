@@ -373,6 +373,55 @@
     sections.forEach(function (s) { navIO.observe(s); });
   }
 
+  /* ---------- Nyhetsflöde (rubriker från oberoende källor, news.json) ---------- */
+  var news = document.querySelector('[data-news]');
+  if (news && window.fetch) {
+    var track = document.getElementById('news-track');
+    var toggle = document.getElementById('news-toggle');
+    var MON = EN ? ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
+                 : ['jan','feb','mar','apr','maj','jun','jul','aug','sep','okt','nov','dec'];
+    function fmt(iso) {
+      var d = new Date(iso); if (isNaN(d)) return '';
+      return EN ? MON[d.getMonth()] + ' ' + d.getDate() : d.getDate() + ' ' + MON[d.getMonth()];
+    }
+    function item(it, clone) {
+      var li = document.createElement('li'); li.className = 'news__item';
+      if (clone) li.setAttribute('aria-hidden', 'true');
+      var a = document.createElement('a');
+      a.href = it.url; a.target = '_blank'; a.rel = 'noopener noreferrer';
+      if (it.lang) a.hreflang = it.lang;
+      if (clone) a.tabIndex = -1;
+      a.textContent = it.title;
+      var src = document.createElement('span'); src.className = 'news__src';
+      src.textContent = it.source + ' · ' + fmt(it.date);
+      li.appendChild(a); li.appendChild(src);
+      return li;
+    }
+    fetch(news.getAttribute('data-news'), { cache: 'no-cache' })
+      .then(function (r) { if (!r.ok) throw r; return r.json(); })
+      .then(function (data) {
+        var items = (data && data.items || []).filter(function (it) {
+          return it && it.title && /^https:\/\//.test(it.url || '');
+        }).slice(0, 20);
+        if (items.length < 3) return;
+        items.forEach(function (it) { track.appendChild(item(it, false)); });
+        if (!reduce) {
+          items.forEach(function (it) { track.appendChild(item(it, true)); });
+          news.classList.add('is-moving');
+        } else if (toggle) { toggle.hidden = true; }
+        news.hidden = false;
+        // ca 45 px per sekund oavsett hur många rubriker som finns
+        var w = track.scrollWidth / 2;
+        track.style.setProperty('--news-dur', Math.max(40, Math.round(w / 45)) + 's');
+        if (toggle) toggle.addEventListener('click', function () {
+          var paused = news.classList.toggle('is-paused');
+          toggle.setAttribute('aria-pressed', paused ? 'true' : 'false');
+          toggle.textContent = paused ? (EN ? 'Play' : 'Spela') : (EN ? 'Pause' : 'Pausa');
+        });
+      })
+      .catch(function () { /* inget flöde, bandet förblir dolt */ });
+  }
+
   /* ---------- Rörelse vid scroll ---------- */
   var targets = document.querySelectorAll('.section .wrap > *, .facts .fact');
   if ('IntersectionObserver' in window && !reduce) {
