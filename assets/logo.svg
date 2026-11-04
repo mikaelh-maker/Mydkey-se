@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 584 279" role="img" aria-label="Mydkey – Move Your Data, Key">
+  <rect width="584" height="279" rx="22" fill="#161e27"/>
+  <rect width="584" height="279" rx="22" fill="url(#g)"/>
+  <defs><radialGradient id="g" cx=".5" cy=".4" r=".6"><stop offset="0" stop-color="#3cc3f0" stop-opacity=".14"/><stop offset="1" stop-color="#3cc3f0" stop-opacity="0"/></radialGradient></defs>
+  <g transform="translate(292 92) scale(1.55) translate(-59 -59)"><circle cx="30" cy="66" r="17" stroke="#3cc3f0" stroke-width="9" fill="none"/><circle cx="30" cy="66" r="5.5" fill="#3cc3f0"/><path d="M47 66 H106" stroke="#3cc3f0" stroke-width="9" stroke-linecap="round"/><rect x="66" y="50" width="9" height="16" rx="2.5" fill="#3cc3f0"/><rect x="80" y="42" width="9" height="24" rx="2.5" fill="#3cc3f0"/><rect x="94" y="32" width="9" height="34" rx="2.5" fill="#3cc3f0"/></g>
+  <text x="292" y="206" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="9" fill="#e7eef5">MYD<tspan fill="#3cc3f0">KEY</tspan></text>
+  <text x="292" y="240" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="600" letter-spacing="3.5" fill="#a9b8c6">MOVE YOUR DATA <tspan fill="#3cc3f0">·</tspan> KEY</text>
+</svg>
