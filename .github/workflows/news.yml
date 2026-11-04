@@ -17,7 +17,7 @@ jobs:
   news:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Hämta nyheter
         run: python3 scripts/fetch_news.py news.json
       - name: Spara och publicera om något ändrats
