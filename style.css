@@ -405,3 +405,6 @@ html:not(.js) .areas__nav { display: none; }
   .about { grid-template-columns: 1fr; gap: 28px; }
   .about__photo { width: 190px; }
 }
+
+/* Kontaktknappar: e-post och telefon */
+.contact { display: flex; flex-wrap: wrap; gap: 12px; }

@@ -373,6 +373,9 @@
     sections.forEach(function (s) { navIO.observe(s); });
   }
 
+  /* ---------- Årtal i sidfoten ---------- */
+  document.querySelectorAll('[data-year]').forEach(function (el) { el.textContent = new Date().getFullYear(); });
+
   /* ---------- Nyhetsflöde (rubriker från oberoende källor, news.json) ---------- */
   var news = document.querySelector('[data-news]');
   if (news && window.fetch) {
