@@ -1,0 +1,5 @@
+# Säkerhetskontakt för mydkey.se (RFC 9116)
+Contact: mailto:mikael@mydkey.se
+Expires: 2027-11-04T00:00:00.000Z
+Preferred-Languages: sv, en
+Canonical: https://mydkey.se/.well-known/security.txt
