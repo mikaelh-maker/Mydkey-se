@@ -7,7 +7,7 @@ v = {f: hashlib.sha1((R / f).read_bytes()).hexdigest()[:8] for f in ("style.css"
 for p in list(R.glob("*.html")) + list((R / "en").glob("*.html")):
     s = o = p.read_text()
     for f, h in v.items():
-        s = re.sub(r'(href|src)="((?:\.\./)?)' + re.escape(f) + r'(?:\?v=[0-9a-f]+)?"', lambda m: f'{m.group(1)}="{m.group(2)}{f}?v={h}"', s)
+        s = re.sub(r'(href|src)="((?:\.\./|/)?)' + re.escape(f) + r'(?:\?v=[0-9a-f]+)?"', lambda m: f'{m.group(1)}="{m.group(2)}{f}?v={h}"', s)
     if s != o:
         p.write_text(s)
 print(v)
