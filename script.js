@@ -377,7 +377,6 @@
   var news = document.querySelector('[data-news]');
   if (news && window.fetch) {
     var track = document.getElementById('news-track');
-    var toggle = document.getElementById('news-toggle');
     var MON = EN ? ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
                  : ['jan','feb','mar','apr','maj','jun','jul','aug','sep','okt','nov','dec'];
     function fmt(iso) {
@@ -408,16 +407,15 @@
         if (!reduce) {
           items.forEach(function (it) { track.appendChild(item(it, true)); });
           news.classList.add('is-moving');
-        } else if (toggle) { toggle.hidden = true; }
+        }
         news.hidden = false;
         // ca 45 px per sekund oavsett hur många rubriker som finns
         var w = track.scrollWidth / 2;
         track.style.setProperty('--news-dur', Math.max(40, Math.round(w / 45)) + 's');
-        if (toggle) toggle.addEventListener('click', function () {
-          var paused = news.classList.toggle('is-paused');
-          toggle.setAttribute('aria-pressed', paused ? 'true' : 'false');
-          toggle.textContent = paused ? (EN ? 'Play' : 'Spela') : (EN ? 'Pause' : 'Pausa');
-        });
+        // Pekskärm: håll fingret på bandet för att pausa, släpp så rullar det vidare
+        var vp = news.querySelector('.news__viewport');
+        vp.addEventListener('touchstart', function () { news.classList.add('is-paused'); }, { passive: true });
+        vp.addEventListener('touchend', function () { setTimeout(function () { news.classList.remove('is-paused'); }, 1500); }, { passive: true });
       })
       .catch(function () { /* inget flöde, bandet förblir dolt */ });
   }
