@@ -333,6 +333,7 @@ html:not(.js) .areas__nav { display: none; }
 .sway { transform-box: fill-box; transform-origin: 50% 100%; animation: sc-sway 5s ease-in-out infinite; }
 .wave { transform-box: fill-box; transform-origin: 0 50%; animation: sc-wave 2.4s ease-in-out infinite; }
 .glow { animation: sc-glow 3s ease-in-out infinite; }
+.pan { transform-box: view-box; transform-origin: 256px 100px; animation: sc-pan 7s ease-in-out infinite; }
 .threat { transform-box: fill-box; animation: sc-threat 4.5s ease-in infinite; }
 .tw { animation: sc-tw 5s ease-in-out infinite; }
 .vision .dome { animation: sc-dash 6s linear infinite; }
@@ -352,6 +353,7 @@ html:not(.js) .areas__nav { display: none; }
 @keyframes sc-sway { 50% { transform: rotate(4deg); } }
 @keyframes sc-wave { 50% { transform: scaleX(0.82); } }
 @keyframes sc-glow { 50% { opacity: 0.42; } }
+@keyframes sc-pan { 0%, 100% { transform: rotate(-7deg); } 50% { transform: rotate(9deg); } }
 @keyframes sc-threat { 0% { transform: translate(0, 0); opacity: 0; } 12% { opacity: 1; } 72% { transform: translate(var(--dx), var(--dy)); opacity: 1; } 84%, 100% { transform: translate(var(--dx), var(--dy)) scale(2.4); opacity: 0; } }
 @keyframes sc-tw { 0%, 100% { opacity: 0.75; } 45% { opacity: 0.2; } }
 @keyframes sc-dash { to { stroke-dashoffset: -180; } }
