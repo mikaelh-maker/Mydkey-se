@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-04T16:40+00:00",
+ "updated": "2026-11-04T18:49+00:00",
  "items": [
+  {
+   "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+   "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-04T18:21+00:00"
+  },
+  {
+   "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+   "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-04T18:02+00:00"
+  },
+  {
+   "title": "What’s next for US energy policy after the midterm elections?",
+   "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-04T17:08+00:00"
+  },
+  {
+   "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
+   "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-04T16:58+00:00"
+  },
   {
    "title": "Ukrainian news outlet Kyiv Independent hit by suspected Russian cyberattack",
    "url": "https://therecord.media/ukraine-kyiv-independent-cyberattack",
@@ -34,14 +66,6 @@
    "date": "2026-11-04T15:00+00:00"
   },
   {
-   "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-   "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-04T14:42+00:00"
-  },
-  {
    "title": "Windows 11 blir 40 procent snabbare på 8 GB-datorer",
    "url": "https://computersweden.se/article/4244554/windows-11-blir-40-procent-snabbare-pa-8-gb-datorer.html",
    "source": "Computer Sweden",
@@ -72,14 +96,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-04T13:45+00:00"
-  },
-  {
-   "title": "US charges two Canadians accused of hacking US universities",
-   "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-04T13:13+00:00"
   },
   {
    "title": "Google låter skolor stänga av AI – men då blir de av med Sök",
@@ -162,14 +178,6 @@
    "date": "2026-11-02T16:40+00:00"
   },
   {
-   "title": "The agentic web is here",
-   "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-02T09:35+00:00"
-  },
-  {
    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
    "source": "Ars Technica",
@@ -184,14 +192,6 @@
    "lang": "sv",
    "topic": "sec",
    "date": "2026-10-28T11:45+00:00"
-  },
-  {
-   "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-   "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-10-27T20:25+00:00"
   }
  ]
 }
