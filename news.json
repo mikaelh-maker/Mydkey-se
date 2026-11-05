@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-05T13:11+00:00",
+ "updated": "2026-11-05T20:39+00:00",
  "items": [
+  {
+   "title": "Truffle Security launches program to revoke 1.4 million live secrets",
+   "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-05T20:15+00:00"
+  },
+  {
+   "title": "US issues more sanctions against Prince Group scam center affiliates",
+   "url": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-05T20:11+00:00"
+  },
+  {
+   "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+   "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-05T19:24+00:00"
+  },
+  {
+   "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
+   "url": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-05T19:15+00:00"
+  },
+  {
+   "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-05T17:45+00:00"
+  },
+  {
+   "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
+   "url": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-05T17:00+00:00"
+  },
+  {
+   "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-05T16:24+00:00"
+  },
+  {
+   "title": "Hälften av de svenska företagen använder AI",
+   "url": "https://computersweden.se/article/4245131/halften-av-de-svenska-foretagen-anvander-ai.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-05T14:20+00:00"
+  },
+  {
+   "title": "Norska biståndsmyndigheten Norad hackad",
+   "url": "https://computersweden.se/article/4245147/norska-bistandsmyndigheten-norad-hackad.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-05T14:19+00:00"
+  },
+  {
+   "title": "Apple drar ner på AI-budgeten för anställda",
+   "url": "https://computersweden.se/article/4245152/apple-drar-ner-pa-ai-budgeten-for-anstallda.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-05T14:18+00:00"
+  },
   {
    "title": "Hackare attackerade blodbanker",
    "url": "https://computersweden.se/article/4245051/hackare-attackerade-blodbanker.html",
@@ -8,22 +88,6 @@
    "lang": "sv",
    "topic": "it",
    "date": "2026-11-05T11:29+00:00"
-  },
-  {
-   "title": "Ryska hackare tar på sig frysattackerna i Europa",
-   "url": "https://computersweden.se/article/4245067/ryska-hackare-tar-pa-sig-frysattackerna-i-europa.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-05T11:29+00:00"
-  },
-  {
-   "title": "Nu kan du skapa animerade giffar i Chat GPT",
-   "url": "https://computersweden.se/article/4245080/nu-kan-du-skapa-animerade-giffar-i-chat-gpt.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-05T11:28+00:00"
   },
   {
    "title": "A new bill could change how the US builds energy infrastructure",
@@ -34,14 +98,6 @@
    "date": "2026-11-05T10:00+00:00"
   },
   {
-   "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-   "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T09:18+00:00"
-  },
-  {
    "title": "Want to Rent an Internet Address at the White House?",
    "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
    "source": "Krebs on Security",
@@ -50,24 +106,8 @@
    "date": "2026-11-05T04:36+00:00"
   },
   {
-   "title": "7 säkra sätt att bränna din AI-budget",
-   "url": "https://computersweden.se/article/4244444/7-sakra-satt-att-slosa-bort-din-ai-budget.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-05T04:00+00:00"
-  },
-  {
    "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
    "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T00:00+00:00"
-  },
-  {
-   "title": "Ukraine fires two senior security officials amid corruption probe into scam call centers",
-   "url": "https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
@@ -88,46 +128,6 @@
    "lang": "en",
    "topic": "it",
    "date": "2026-11-04T21:38+00:00"
-  },
-  {
-   "title": "Vercel rolls out new protection against stolen session cookie attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-04T21:31+00:00"
-  },
-  {
-   "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
-   "url": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-04T21:30+00:00"
-  },
-  {
-   "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-   "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-04T20:58+00:00"
-  },
-  {
-   "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
-   "url": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-04T19:17+00:00"
-  },
-  {
-   "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-   "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-04T19:05+00:00"
   },
   {
    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
