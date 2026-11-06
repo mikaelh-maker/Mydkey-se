@@ -1,37 +1,101 @@
 {
- "updated": "2026-11-06T12:56+00:00",
+ "updated": "2026-11-06T19:57+00:00",
  "items": [
   {
-   "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-   "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+   "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
+   "url": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T19:06+00:00"
+  },
+  {
+   "title": "Certificate authority DigiCert reports data breach involving business customer info",
+   "url": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T18:56+00:00"
+  },
+  {
+   "title": "Fake security tools on GitHub push backdoors and infostealers",
+   "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-06T12:37+00:00"
+   "date": "2026-11-06T18:46+00:00"
   },
   {
-   "title": "Myndigheter varnar för nya frysattacker",
-   "url": "https://computersweden.se/article/4245605/myndigheter-varnar-for-nya-frysattacker.html",
+   "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T17:04+00:00"
+  },
+  {
+   "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
+   "url": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T16:53+00:00"
+  },
+  {
+   "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+   "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T15:25+00:00"
+  },
+  {
+   "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+   "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T15:00+00:00"
+  },
+  {
+   "title": "CEO-spoofing scammers used AI to help steal more than $100 million, feds say",
+   "url": "https://therecord.media/ceo-spoofing-scammers-charged",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T14:30+00:00"
+  },
+  {
+   "title": "Ta ryssen i frysen på allvar",
+   "url": "https://computersweden.se/article/4245652/ta-ryssen-i-frysen-pa-allvar.html",
    "source": "Computer Sweden",
    "lang": "sv",
    "topic": "it",
-   "date": "2026-11-06T11:48+00:00"
+   "date": "2026-11-06T14:04+00:00"
   },
   {
-   "title": "Open AI släpper nya säkerhetsmodellen GPT-6 Cyber",
-   "url": "https://computersweden.se/article/4245616/open-ai-slapper-nya-sakerhetsmodellen-gpt-6-cyber.html",
+   "title": "Svenskarna mer negativa än positiva till AI",
+   "url": "https://computersweden.se/article/4245727/svenskarna-mer-negativa-an-positiva-till-ai.html",
    "source": "Computer Sweden",
    "lang": "sv",
    "topic": "it",
-   "date": "2026-11-06T11:47+00:00"
+   "date": "2026-11-06T14:03+00:00"
   },
   {
-   "title": "USA:s luftfartsmyndighet slutar använda disketter – om 2 år",
-   "url": "https://computersweden.se/article/4245642/usas-luftfartsmyndighet-slutar-anvanda-disketter-om-2-ar.html",
+   "title": "EU kräver att Tiktok ändrar sitt “skadliga” För dig-flöde",
+   "url": "https://computersweden.se/article/4245699/eu-kraver-att-tiktok-andrar-sitt-skadliga-for-dig-flode.html",
    "source": "Computer Sweden",
    "lang": "sv",
    "topic": "it",
-   "date": "2026-11-06T11:47+00:00"
+   "date": "2026-11-06T14:03+00:00"
+  },
+  {
+   "title": "IMY granskar Arbetsförmedlingens AI-system",
+   "url": "https://computersweden.se/article/4245742/imy-granskar-arbetsformedlingens-ai-system.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-06T14:01+00:00"
   },
   {
    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -42,14 +106,6 @@
    "date": "2026-11-06T10:00+00:00"
   },
   {
-   "title": "MetaMask says recent attack didn't affect wallet infrastructure",
-   "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-06T09:22+00:00"
-  },
-  {
    "title": "EU varnar för cyberincidenter i kyl- och fryssystem",
    "url": "https://www.cert.se/2026/11/eu-varnar-for-cyberincidenter-i-kyl-och-fryssystem.html",
    "source": "CERT-SE",
@@ -58,68 +114,12 @@
    "date": "2026-11-06T08:00+00:00"
   },
   {
-   "title": "Kritiska system patchas alldeles för långsamt",
-   "url": "https://computersweden.se/article/4245011/natverksenheter-gar-i-over-ett-ar-utan-sakerhetsuppdateringar-samtidigt-som-utnyttjandet-av-sarbarheter-okar-i-takt.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-06T04:00+00:00"
-  },
-  {
-   "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-06T00:56+00:00"
-  },
-  {
-   "title": "EU accuses TikTok of trapping users in harmful ‘rabbit holes’",
-   "url": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-06T00:00+00:00"
-  },
-  {
    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
    "source": "Ars Technica",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-05T23:09+00:00"
-  },
-  {
-   "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
-   "url": "https://therecord.media/queens-library-ransomware-causes-disruptions",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T22:08+00:00"
-  },
-  {
-   "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
-   "url": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T20:48+00:00"
-  },
-  {
-   "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-   "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T20:15+00:00"
-  },
-  {
-   "title": "US issues more sanctions against Prince Group scam center affiliates",
-   "url": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T20:11+00:00"
   },
   {
    "title": "A new bill could change how the US builds energy infrastructure",
