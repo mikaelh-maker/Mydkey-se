@@ -1,8 +1,40 @@
 {
- "updated": "2026-11-05T20:39+00:00",
+ "updated": "2026-11-06T01:32+00:00",
  "items": [
   {
-   "title": "Truffle Security launches program to revoke 1.4 million live secrets",
+   "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T00:56+00:00"
+  },
+  {
+   "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+   "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-05T23:09+00:00"
+  },
+  {
+   "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
+   "url": "https://therecord.media/queens-library-ransomware-causes-disruptions",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-05T22:08+00:00"
+  },
+  {
+   "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
+   "url": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-05T20:48+00:00"
+  },
+  {
+   "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
    "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
    "source": "BleepingComputer",
    "lang": "en",
@@ -40,22 +72,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-05T17:45+00:00"
-  },
-  {
-   "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
-   "url": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T17:00+00:00"
-  },
-  {
-   "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T16:24+00:00"
   },
   {
    "title": "Hälften av de svenska företagen använder AI",
@@ -104,14 +120,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-05T04:36+00:00"
-  },
-  {
-   "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
-   "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T00:00+00:00"
   },
   {
    "title": "Hackers exploited iOS and Android flaws to infect phones",
@@ -168,14 +176,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-03T17:08+00:00"
-  },
-  {
-   "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-   "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-03T16:03+00:00"
   },
   {
    "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
