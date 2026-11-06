@@ -1,6 +1,70 @@
 {
- "updated": "2026-11-06T01:32+00:00",
+ "updated": "2026-11-06T12:56+00:00",
  "items": [
+  {
+   "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+   "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T12:37+00:00"
+  },
+  {
+   "title": "Myndigheter varnar för nya frysattacker",
+   "url": "https://computersweden.se/article/4245605/myndigheter-varnar-for-nya-frysattacker.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-06T11:48+00:00"
+  },
+  {
+   "title": "Open AI släpper nya säkerhetsmodellen GPT-6 Cyber",
+   "url": "https://computersweden.se/article/4245616/open-ai-slapper-nya-sakerhetsmodellen-gpt-6-cyber.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-06T11:47+00:00"
+  },
+  {
+   "title": "USA:s luftfartsmyndighet slutar använda disketter – om 2 år",
+   "url": "https://computersweden.se/article/4245642/usas-luftfartsmyndighet-slutar-anvanda-disketter-om-2-ar.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-06T11:47+00:00"
+  },
+  {
+   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-06T10:00+00:00"
+  },
+  {
+   "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+   "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T09:22+00:00"
+  },
+  {
+   "title": "EU varnar för cyberincidenter i kyl- och fryssystem",
+   "url": "https://www.cert.se/2026/11/eu-varnar-for-cyberincidenter-i-kyl-och-fryssystem.html",
+   "source": "CERT-SE",
+   "lang": "sv",
+   "topic": "sec",
+   "date": "2026-11-06T08:00+00:00"
+  },
+  {
+   "title": "Kritiska system patchas alldeles för långsamt",
+   "url": "https://computersweden.se/article/4245011/natverksenheter-gar-i-over-ett-ar-utan-sakerhetsuppdateringar-samtidigt-som-utnyttjandet-av-sarbarheter-okar-i-takt.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-06T04:00+00:00"
+  },
   {
    "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
    "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
@@ -8,6 +72,14 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-06T00:56+00:00"
+  },
+  {
+   "title": "EU accuses TikTok of trapping users in harmful ‘rabbit holes’",
+   "url": "https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T00:00+00:00"
   },
   {
    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
@@ -48,62 +120,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-05T20:11+00:00"
-  },
-  {
-   "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-   "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T19:24+00:00"
-  },
-  {
-   "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
-   "url": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T19:15+00:00"
-  },
-  {
-   "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
-   "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T17:45+00:00"
-  },
-  {
-   "title": "Hälften av de svenska företagen använder AI",
-   "url": "https://computersweden.se/article/4245131/halften-av-de-svenska-foretagen-anvander-ai.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-05T14:20+00:00"
-  },
-  {
-   "title": "Norska biståndsmyndigheten Norad hackad",
-   "url": "https://computersweden.se/article/4245147/norska-bistandsmyndigheten-norad-hackad.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-05T14:19+00:00"
-  },
-  {
-   "title": "Apple drar ner på AI-budgeten för anställda",
-   "url": "https://computersweden.se/article/4245152/apple-drar-ner-pa-ai-budgeten-for-anstallda.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-05T14:18+00:00"
-  },
-  {
-   "title": "Hackare attackerade blodbanker",
-   "url": "https://computersweden.se/article/4245051/hackare-attackerade-blodbanker.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-05T11:29+00:00"
   },
   {
    "title": "A new bill could change how the US builds energy infrastructure",
@@ -154,14 +170,6 @@
    "date": "2026-11-04T18:21+00:00"
   },
   {
-   "title": "What’s next for US energy policy after the midterm elections?",
-   "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-04T17:08+00:00"
-  },
-  {
    "title": "Binance says hackers who stole billions in crypto spent months planning heist",
    "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
    "source": "Ars Technica",
@@ -184,14 +192,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-03T12:00+00:00"
-  },
-  {
-   "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-   "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-   "source": "Krebs on Security",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-03T02:24+00:00"
   }
  ]
 }
