@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-07T11:43+00:00",
+ "updated": "2026-11-07T18:02+00:00",
  "items": [
+  {
+   "title": "Hackers pull off $133 million French bank heist via service provider",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-07T15:25+00:00"
+  },
+  {
+   "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+   "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-07T14:10+00:00"
+  },
   {
    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
    "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
@@ -34,14 +50,6 @@
    "date": "2026-11-06T20:56+00:00"
   },
   {
-   "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-   "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-06T20:24+00:00"
-  },
-  {
    "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
    "url": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
    "source": "The Record",
@@ -56,14 +64,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-06T18:56+00:00"
-  },
-  {
-   "title": "Fake security tools on GitHub push backdoors and infostealers",
-   "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-06T18:46+00:00"
   },
   {
    "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
