@@ -1,6 +1,38 @@
 {
- "updated": "2026-11-06T19:57+00:00",
+ "updated": "2026-11-07T00:56+00:00",
  "items": [
+  {
+   "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-07T00:00+00:00"
+  },
+  {
+   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+   "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T22:27+00:00"
+  },
+  {
+   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+   "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T20:56+00:00"
+  },
+  {
+   "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+   "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-06T20:24+00:00"
+  },
   {
    "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
    "url": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
@@ -26,36 +58,12 @@
    "date": "2026-11-06T18:46+00:00"
   },
   {
-   "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-06T17:04+00:00"
-  },
-  {
    "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
    "url": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-06T16:53+00:00"
-  },
-  {
-   "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-   "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-06T15:25+00:00"
-  },
-  {
-   "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-   "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-06T15:00+00:00"
   },
   {
    "title": "CEO-spoofing scammers used AI to help steal more than $100 million, feds say",
@@ -176,14 +184,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-04T16:06+00:00"
-  },
-  {
-   "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
-   "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-03T17:08+00:00"
   },
   {
    "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
