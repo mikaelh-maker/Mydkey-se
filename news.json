@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-07T00:56+00:00",
+ "updated": "2026-11-07T11:43+00:00",
  "items": [
+  {
+   "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+   "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-07T11:00+00:00"
+  },
   {
    "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
    "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
@@ -176,14 +184,6 @@
    "lang": "en",
    "topic": "it",
    "date": "2026-11-04T18:21+00:00"
-  },
-  {
-   "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-   "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-04T16:06+00:00"
   },
   {
    "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
