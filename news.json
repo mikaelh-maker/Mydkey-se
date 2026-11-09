@@ -1,6 +1,70 @@
 {
- "updated": "2026-11-09T00:54+00:00",
+ "updated": "2026-11-09T13:53+00:00",
  "items": [
+  {
+   "title": "Nvidias chef erkänner otrohet – utreds för kopplingar till kinesiskt spionage",
+   "url": "https://computersweden.se/article/4246334/nvidias-chef-erkanner-otrohet-utreds-for-kopplingar-till-kinesiskt-spionage.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-09T13:30+00:00"
+  },
+  {
+   "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+   "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-09T13:28+00:00"
+  },
+  {
+   "title": "Pro-Russian hackers target European officials, offer rewards for personal information",
+   "url": "https://therecord.media/hackers-russia-italy-noname",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-09T13:15+00:00"
+  },
+  {
+   "title": "Sårbarhet i Sonicwalls brandväggar utnyttjas av hackare",
+   "url": "https://computersweden.se/article/1293262/sarbarhet-i-sonicwalls-brandvaggar-kan-utnyttjas-av-hackare.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-09T12:19+00:00"
+  },
+  {
+   "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
+   "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-09T12:16+00:00"
+  },
+  {
+   "title": "Uppgifter: Apples Siri ska fungera som en AI-agent",
+   "url": "https://computersweden.se/article/4246275/uppgifter-apples-siri-ska-fungera-som-en-ai-agent.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-09T12:03+00:00"
+  },
+  {
+   "title": "145 planerade datacenter i Finland – nu höjs kritiken",
+   "url": "https://computersweden.se/article/4246261/145-planerade-datacenter-i-finland-nu-hojs-kritiken.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-09T11:40+00:00"
+  },
+  {
+   "title": "The climate case for AI has not been made",
+   "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-09T10:00+00:00"
+  },
   {
    "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
    "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
@@ -18,28 +82,12 @@
    "date": "2026-11-07T15:25+00:00"
   },
   {
-   "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-   "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-07T14:10+00:00"
-  },
-  {
    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
    "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
    "source": "Ars Technica",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-07T11:00+00:00"
-  },
-  {
-   "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-07T00:00+00:00"
   },
   {
    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -72,46 +120,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-06T16:53+00:00"
-  },
-  {
-   "title": "CEO-spoofing scammers used AI to help steal more than $100 million, feds say",
-   "url": "https://therecord.media/ceo-spoofing-scammers-charged",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-06T14:30+00:00"
-  },
-  {
-   "title": "Ta ryssen i frysen på allvar",
-   "url": "https://computersweden.se/article/4245652/ta-ryssen-i-frysen-pa-allvar.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-06T14:04+00:00"
-  },
-  {
-   "title": "Svenskarna mer negativa än positiva till AI",
-   "url": "https://computersweden.se/article/4245727/svenskarna-mer-negativa-an-positiva-till-ai.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-06T14:03+00:00"
-  },
-  {
-   "title": "EU kräver att Tiktok ändrar sitt “skadliga” För dig-flöde",
-   "url": "https://computersweden.se/article/4245699/eu-kraver-att-tiktok-andrar-sitt-skadliga-for-dig-flode.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-06T14:03+00:00"
-  },
-  {
-   "title": "IMY granskar Arbetsförmedlingens AI-system",
-   "url": "https://computersweden.se/article/4245742/imy-granskar-arbetsformedlingens-ai-system.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-06T14:01+00:00"
   },
   {
    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -176,14 +184,6 @@
    "lang": "en",
    "topic": "it",
    "date": "2026-11-04T18:50+00:00"
-  },
-  {
-   "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-   "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-04T18:21+00:00"
   },
   {
    "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
