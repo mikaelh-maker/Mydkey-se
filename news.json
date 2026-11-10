@@ -1,21 +1,109 @@
 {
- "updated": "2026-11-10T13:27+00:00",
+ "updated": "2026-11-10T22:22+00:00",
  "items": [
   {
-   "title": "Russian hackers compromised government email servers to steal NATO, EU correspondence",
-   "url": "https://therecord.media/russia-hackers-espionage-romania-kazakhstan",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T13:00+00:00"
-  },
-  {
-   "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-   "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+   "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+   "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-10T12:07+00:00"
+   "date": "2026-11-10T22:20+00:00"
+  },
+  {
+   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+   "source": "Krebs on Security",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-10T21:55+00:00"
+  },
+  {
+   "title": "US Army member arrested in UK over allegations of spying for Russia",
+   "url": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-10T21:13+00:00"
+  },
+  {
+   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+   "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-10T21:12+00:00"
+  },
+  {
+   "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
+   "url": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-10T20:55+00:00"
+  },
+  {
+   "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+   "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-10T20:54+00:00"
+  },
+  {
+   "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-10T20:04+00:00"
+  },
+  {
+   "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-10T19:31+00:00"
+  },
+  {
+   "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
+   "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-10T16:08+00:00"
+  },
+  {
+   "title": "Cybercriminals are increasingly infecting regular people with spyware",
+   "url": "https://therecord.media/spyware-cyber-crime-iverify",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-10T15:45+00:00"
+  },
+  {
+   "title": "Norge stoppar el till nya datacenter",
+   "url": "https://computersweden.se/article/4246819/norge-stoppar-el-till-nya-datacenter.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-10T14:11+00:00"
+  },
+  {
+   "title": "Anthropic köper gasgeneratorer för miljarder",
+   "url": "https://computersweden.se/article/4246856/anthropic-koper-gasgeneratorer-for-miljarder.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-10T14:10+00:00"
+  },
+  {
+   "title": "Australien överväger straffansvar för AI-bolag",
+   "url": "https://computersweden.se/article/4246832/australien-overvager-straffansvar-for-ai-bolag.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-10T14:10+00:00"
   },
   {
    "title": "Iran pekas ut för frysattackerna i Frankrike",
@@ -24,62 +112,6 @@
    "lang": "sv",
    "topic": "it",
    "date": "2026-11-10T11:21+00:00"
-  },
-  {
-   "title": "Uppgifter om 350 164 SAS-resenärer kan ha läckt",
-   "url": "https://computersweden.se/article/4246752/uppgifter-om-350-164-sas-resenarer-har-lackt-ut.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-10T11:21+00:00"
-  },
-  {
-   "title": "Anthropic släpper nya versioner av Mythos och Fable",
-   "url": "https://computersweden.se/article/4246732/anthropic-slapper-nya-versioner-av-mythos-och-fable.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-10T11:20+00:00"
-  },
-  {
-   "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T10:10+00:00"
-  },
-  {
-   "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-   "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T10:04+00:00"
-  },
-  {
-   "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-   "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T08:51+00:00"
-  },
-  {
-   "title": "Autonoma AI-agenter är fortfarande ett pågående projekt",
-   "url": "https://computersweden.se/article/4245663/ai-agenters-autonomi-ar-fortfarande-ett-svarfangat-pagaende-projekt.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-10T04:00+00:00"
-  },
-  {
-   "title": "Data breach at hearing aid giant Amplifon impacts thousands",
-   "url": "https://therecord.media/amplifon-hearing-aid-company-data-breach",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-09T20:44+00:00"
   },
   {
    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
@@ -96,22 +128,6 @@
    "lang": "en",
    "topic": "it",
    "date": "2026-11-09T19:35+00:00"
-  },
-  {
-   "title": "France blames Iran for fridge cyberattacks, says some caused fires",
-   "url": "https://therecord.media/france-blames-iran-for-fridge-cyberattacks",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-09T18:45+00:00"
-  },
-  {
-   "title": "Vanderbilt cybersecurity incident impacting campus devices and systems",
-   "url": "https://therecord.media/vanderbilt-cyberattack-ransomware-alert",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-09T18:30+00:00"
   },
   {
    "title": "Claude Code is accidentally exposing secrets all over GitHub",
@@ -150,7 +166,7 @@
    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
    "source": "Ars Technica",
    "lang": "en",
-   "topic": "sec",
+   "topic": "it",
    "date": "2026-11-06T20:56+00:00"
   },
   {
@@ -176,22 +192,6 @@
    "lang": "en",
    "topic": "it",
    "date": "2026-11-05T23:09+00:00"
-  },
-  {
-   "title": "Want to Rent an Internet Address at the White House?",
-   "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-   "source": "Krebs on Security",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-05T04:36+00:00"
-  },
-  {
-   "title": "Hackers exploited iOS and Android flaws to infect phones",
-   "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-04T22:26+00:00"
   }
  ]
 }
