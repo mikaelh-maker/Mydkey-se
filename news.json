@@ -1,29 +1,77 @@
 {
- "updated": "2026-11-10T00:41+00:00",
+ "updated": "2026-11-10T13:27+00:00",
  "items": [
   {
-   "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-   "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-   "source": "BleepingComputer",
+   "title": "Russian hackers compromised government email servers to steal NATO, EU correspondence",
+   "url": "https://therecord.media/russia-hackers-espionage-romania-kazakhstan",
+   "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-09T23:52+00:00"
+   "date": "2026-11-10T13:00+00:00"
   },
   {
-   "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-   "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+   "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+   "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-09T21:26+00:00"
+   "date": "2026-11-10T12:07+00:00"
   },
   {
-   "title": "York University breach exposed personal information dating to 2007",
-   "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+   "title": "Iran pekas ut för frysattackerna i Frankrike",
+   "url": "https://computersweden.se/article/4246701/iran-pekas-ut-for-frysattackerna-i-frankrike.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-10T11:21+00:00"
+  },
+  {
+   "title": "Uppgifter om 350 164 SAS-resenärer kan ha läckt",
+   "url": "https://computersweden.se/article/4246752/uppgifter-om-350-164-sas-resenarer-har-lackt-ut.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-10T11:21+00:00"
+  },
+  {
+   "title": "Anthropic släpper nya versioner av Mythos och Fable",
+   "url": "https://computersweden.se/article/4246732/anthropic-slapper-nya-versioner-av-mythos-och-fable.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-10T11:20+00:00"
+  },
+  {
+   "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-09T21:22+00:00"
+   "date": "2026-11-10T10:10+00:00"
+  },
+  {
+   "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+   "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-10T10:04+00:00"
+  },
+  {
+   "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+   "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-10T08:51+00:00"
+  },
+  {
+   "title": "Autonoma AI-agenter är fortfarande ett pågående projekt",
+   "url": "https://computersweden.se/article/4245663/ai-agenters-autonomi-ar-fortfarande-ett-svarfangat-pagaende-projekt.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-10T04:00+00:00"
   },
   {
    "title": "Data breach at hearing aid giant Amplifon impacts thousands",
@@ -58,14 +106,6 @@
    "date": "2026-11-09T18:45+00:00"
   },
   {
-   "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-   "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-09T18:32+00:00"
-  },
-  {
    "title": "Vanderbilt cybersecurity incident impacting campus devices and systems",
    "url": "https://therecord.media/vanderbilt-cyberattack-ransomware-alert",
    "source": "The Record",
@@ -88,46 +128,6 @@
    "lang": "en",
    "topic": "it",
    "date": "2026-11-09T17:05+00:00"
-  },
-  {
-   "title": "Ukraine arrests four in $5 million crypto scam targeting Germans",
-   "url": "https://therecord.media/ukraine-arrests-scam-call-centers-germany",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-09T15:24+00:00"
-  },
-  {
-   "title": "Trump öppnar för AI-reglering – men vill inte halka efter Kina",
-   "url": "https://computersweden.se/article/4246347/trump-oppnar-for-ai-reglering-men-vill-inte-halka-efter-kina.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-09T14:22+00:00"
-  },
-  {
-   "title": "Google släpper två nya varianter av sina AI-chipp",
-   "url": "https://computersweden.se/article/4246344/google-slapper-tva-nya-varianter-av-sina-ai-chipp.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-09T14:01+00:00"
-  },
-  {
-   "title": "Nvidias chef erkänner otrohet – utreds för kopplingar till kinesiskt spionage",
-   "url": "https://computersweden.se/article/4246334/nvidias-chef-erkanner-otrohet-utreds-for-kopplingar-till-kinesiskt-spionage.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-09T13:30+00:00"
-  },
-  {
-   "title": "Sårbarhet i Sonicwalls brandväggar utnyttjas av hackare",
-   "url": "https://computersweden.se/article/1293262/sarbarhet-i-sonicwalls-brandvaggar-kan-utnyttjas-av-hackare.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-09T12:19+00:00"
   },
   {
    "title": "The climate case for AI has not been made",
