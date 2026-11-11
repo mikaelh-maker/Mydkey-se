@@ -1,13 +1,85 @@
 {
- "updated": "2026-11-10T22:22+00:00",
+ "updated": "2026-11-11T12:42+00:00",
  "items": [
   {
-   "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-   "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+   "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+   "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-10T22:20+00:00"
+   "date": "2026-11-11T12:32+00:00"
+  },
+  {
+   "title": "Svenskutvecklade dataspel säljer som smör",
+   "url": "https://computersweden.se/article/4247352/svenskutvecklade-dataspel-saljer-som-smor.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-11T12:22+00:00"
+  },
+  {
+   "title": "Gemini 4 Carbon rullas nu ut på bred front",
+   "url": "https://computersweden.se/article/4247327/gemini-4-carbon-rullas-nu-ut-pa-bred-front.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-11T12:19+00:00"
+  },
+  {
+   "title": "Anthropic lanserar Claude Meetings – AI i videosamtal",
+   "url": "https://computersweden.se/article/4247316/anthropic-lanserar-claude-meetings-ai-i-videosamtal.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-11T12:19+00:00"
+  },
+  {
+   "title": "NCSC scheme will help critical organisations test their cyber defences",
+   "url": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences",
+   "source": "NCSC UK",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T12:00+00:00"
+  },
+  {
+   "title": "Microsoft fixes audio issues caused by September security updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T11:18+00:00"
+  },
+  {
+   "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T10:12+00:00"
+  },
+  {
+   "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T09:07+00:00"
+  },
+  {
+   "title": "Patchtisdag november 2026",
+   "url": "https://www.cert.se/2026/11/patchtisdag-november-2026.html",
+   "source": "CERT-SE",
+   "lang": "sv",
+   "topic": "sec",
+   "date": "2026-11-11T08:20+00:00"
+  },
+  {
+   "title": "Kuppen mot Binance en studie i undermålig säkerhet",
+   "url": "https://computersweden.se/article/4246671/stolden-pa-binance-ar-ett-tydligt-exempel-pa-brister-i-styrningen-av-ai-och-grundlaggande-sakerhetsbrister.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-11T04:00+00:00"
   },
   {
    "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
@@ -42,30 +114,6 @@
    "date": "2026-11-10T20:55+00:00"
   },
   {
-   "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-   "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T20:54+00:00"
-  },
-  {
-   "title": "Microsoft releases Windows 10 KB5131096 extended security update",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T20:04+00:00"
-  },
-  {
-   "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T19:31+00:00"
-  },
-  {
    "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
    "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
    "source": "The Record",
@@ -80,38 +128,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-10T15:45+00:00"
-  },
-  {
-   "title": "Norge stoppar el till nya datacenter",
-   "url": "https://computersweden.se/article/4246819/norge-stoppar-el-till-nya-datacenter.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-10T14:11+00:00"
-  },
-  {
-   "title": "Anthropic köper gasgeneratorer för miljarder",
-   "url": "https://computersweden.se/article/4246856/anthropic-koper-gasgeneratorer-for-miljarder.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-10T14:10+00:00"
-  },
-  {
-   "title": "Australien överväger straffansvar för AI-bolag",
-   "url": "https://computersweden.se/article/4246832/australien-overvager-straffansvar-for-ai-bolag.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-10T14:10+00:00"
-  },
-  {
-   "title": "Iran pekas ut för frysattackerna i Frankrike",
-   "url": "https://computersweden.se/article/4246701/iran-pekas-ut-for-frysattackerna-i-frankrike.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-10T11:21+00:00"
   },
   {
    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
@@ -176,22 +192,6 @@
    "lang": "en",
    "topic": "it",
    "date": "2026-11-06T10:00+00:00"
-  },
-  {
-   "title": "EU varnar för cyberincidenter i kyl- och fryssystem",
-   "url": "https://www.cert.se/2026/11/eu-varnar-for-cyberincidenter-i-kyl-och-fryssystem.html",
-   "source": "CERT-SE",
-   "lang": "sv",
-   "topic": "sec",
-   "date": "2026-11-06T08:00+00:00"
-  },
-  {
-   "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-   "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-05T23:09+00:00"
   }
  ]
 }
