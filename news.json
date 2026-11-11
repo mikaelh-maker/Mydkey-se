@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-11T12:42+00:00",
+ "updated": "2026-11-11T20:11+00:00",
  "items": [
+  {
+   "title": "Who Runs the Ransomware Group Qilin?",
+   "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+   "source": "Krebs on Security",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T18:06+00:00"
+  },
+  {
+   "title": "What to know about this year’s UN climate talks",
+   "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-11T17:00+00:00"
+  },
+  {
+   "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+   "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T16:57+00:00"
+  },
+  {
+   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+   "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T16:24+00:00"
+  },
+  {
+   "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T15:12+00:00"
+  },
+  {
+   "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+   "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T15:01+00:00"
+  },
+  {
+   "title": "AI-datacenter planeras få egna gaskraftverk i enorm skala",
+   "url": "https://computersweden.se/article/4247430/ai-datacenter-planeras-fa-egna-gaskraftverk-i-enorm-skala.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-11T14:15+00:00"
+  },
+  {
+   "title": "Nya EU-regler ger böter till företag som manipulerar konsumenter online",
+   "url": "https://computersweden.se/article/4247416/nya-eu-regler-ger-boter-till-foretag-som-manipulerar-konsumenter-online.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-11T14:14+00:00"
+  },
+  {
+   "title": "Google DeepMind just mathematically verified key parts of Signal",
+   "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T14:08+00:00"
+  },
+  {
+   "title": "Poland shuts down government services platform ePUAP following cyberattack",
+   "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T13:18+00:00"
+  },
+  {
+   "title": "Britain, France set out first guidelines for commercial hacking firms",
+   "url": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-11T13:11+00:00"
+  },
   {
    "title": "N-able releases security hotfixes for zero-day vulnerabilities",
    "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
@@ -26,14 +114,6 @@
    "date": "2026-11-11T12:19+00:00"
   },
   {
-   "title": "Anthropic lanserar Claude Meetings – AI i videosamtal",
-   "url": "https://computersweden.se/article/4247316/anthropic-lanserar-claude-meetings-ai-i-videosamtal.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-11T12:19+00:00"
-  },
-  {
    "title": "NCSC scheme will help critical organisations test their cyber defences",
    "url": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences",
    "source": "NCSC UK",
@@ -42,44 +122,12 @@
    "date": "2026-11-11T12:00+00:00"
   },
   {
-   "title": "Microsoft fixes audio issues caused by September security updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T11:18+00:00"
-  },
-  {
-   "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T10:12+00:00"
-  },
-  {
-   "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T09:07+00:00"
-  },
-  {
    "title": "Patchtisdag november 2026",
    "url": "https://www.cert.se/2026/11/patchtisdag-november-2026.html",
    "source": "CERT-SE",
    "lang": "sv",
    "topic": "sec",
    "date": "2026-11-11T08:20+00:00"
-  },
-  {
-   "title": "Kuppen mot Binance en studie i undermålig säkerhet",
-   "url": "https://computersweden.se/article/4246671/stolden-pa-binance-ar-ett-tydligt-exempel-pa-brister-i-styrningen-av-ai-och-grundlaggande-sakerhetsbrister.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-11T04:00+00:00"
   },
   {
    "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
@@ -104,30 +152,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-10T21:12+00:00"
-  },
-  {
-   "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
-   "url": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T20:55+00:00"
-  },
-  {
-   "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
-   "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T16:08+00:00"
-  },
-  {
-   "title": "Cybercriminals are increasingly infecting regular people with spyware",
-   "url": "https://therecord.media/spyware-cyber-crime-iverify",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T15:45+00:00"
   },
   {
    "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
@@ -168,30 +192,6 @@
    "lang": "en",
    "topic": "it",
    "date": "2026-11-09T10:00+00:00"
-  },
-  {
-   "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-   "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-07T11:00+00:00"
-  },
-  {
-   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-   "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-06T20:56+00:00"
-  },
-  {
-   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-   "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-06T10:00+00:00"
   }
  ]
 }
