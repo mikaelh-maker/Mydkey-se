@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-12T02:16+00:00",
+ "updated": "2026-11-12T13:46+00:00",
  "items": [
+  {
+   "title": "Romania says it stopped Russian cyberattack targeting government emails",
+   "url": "https://therecord.media/romania-russia-cyberattack-emails",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-12T13:30+00:00"
+  },
+  {
+   "title": "Kazakhstan-linked hackers used AI agent to spy on Central Asian governments",
+   "url": "https://therecord.media/kazakhstan-hackers-central-asia",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-12T13:00+00:00"
+  },
+  {
+   "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-12T12:11+00:00"
+  },
+  {
+   "title": "Flygbolag stoppar bokningar från AI-agenter",
+   "url": "https://computersweden.se/article/4247756/flygbolag-stoppar-bokningar-fran-ai-agenter.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-12T11:46+00:00"
+  },
+  {
+   "title": "AWS släpper emulator för sina molntjänster",
+   "url": "https://computersweden.se/article/4247778/aws-slapper-emulator-for-sina-molntjanster.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-12T11:45+00:00"
+  },
+  {
+   "title": "Adobe öppnar upp Creative Cloud för AI-assistenter",
+   "url": "https://computersweden.se/article/4247790/adobe-oppnar-upp-creative-cloud-for-ai-assistenter.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-12T11:45+00:00"
+  },
+  {
+   "title": "Microsoft confirms Windows security updates installation issues",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-12T10:24+00:00"
+  },
+  {
+   "title": "Hackers plant GSocket on Linux servers for persistent access",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-12T09:38+00:00"
+  },
+  {
+   "title": "Hur bra är din exit-strategi för molnet?",
+   "url": "https://computersweden.se/article/4247350/hur-bra-ar-din-strategi-for-att-lamna-molntjansterna.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-12T04:00+00:00"
+  },
   {
    "title": "Baker Tilly notifies clients of data breach at third-party provider",
    "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
@@ -8,30 +80,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-11T23:01+00:00"
-  },
-  {
-   "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-   "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T22:56+00:00"
-  },
-  {
-   "title": "eMudhra revokes 8 more CA certificates after private key mishap",
-   "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T21:27+00:00"
-  },
-  {
-   "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
-   "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T20:54+00:00"
   },
   {
    "title": "Who Runs the Ransomware Group Qilin?",
@@ -58,22 +106,6 @@
    "date": "2026-11-11T16:57+00:00"
   },
   {
-   "title": "AI-datacenter planeras få egna gaskraftverk i enorm skala",
-   "url": "https://computersweden.se/article/4247430/ai-datacenter-planeras-fa-egna-gaskraftverk-i-enorm-skala.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-11T14:15+00:00"
-  },
-  {
-   "title": "Nya EU-regler ger böter till företag som manipulerar konsumenter online",
-   "url": "https://computersweden.se/article/4247416/nya-eu-regler-ger-boter-till-foretag-som-manipulerar-konsumenter-online.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-11T14:14+00:00"
-  },
-  {
    "title": "Google DeepMind just mathematically verified key parts of Signal",
    "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
    "source": "Ars Technica",
@@ -88,30 +120,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-11T13:18+00:00"
-  },
-  {
-   "title": "Britain, France set out first guidelines for commercial hacking firms",
-   "url": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T13:11+00:00"
-  },
-  {
-   "title": "Svenskutvecklade dataspel säljer som smör",
-   "url": "https://computersweden.se/article/4247352/svenskutvecklade-dataspel-saljer-som-smor.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-11T12:22+00:00"
-  },
-  {
-   "title": "Gemini 4 Carbon rullas nu ut på bred front",
-   "url": "https://computersweden.se/article/4247327/gemini-4-carbon-rullas-nu-ut-pa-bred-front.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-11T12:19+00:00"
   },
   {
    "title": "NCSC scheme will help critical organisations test their cyber defences",
@@ -136,14 +144,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-10T21:55+00:00"
-  },
-  {
-   "title": "US Army member arrested in UK over allegations of spying for Russia",
-   "url": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T21:13+00:00"
   },
   {
    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
