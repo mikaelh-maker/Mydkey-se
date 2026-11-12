@@ -1,85 +1,109 @@
 {
- "updated": "2026-11-12T13:46+00:00",
+ "updated": "2026-11-12T22:43+00:00",
  "items": [
   {
-   "title": "Romania says it stopped Russian cyberattack targeting government emails",
-   "url": "https://therecord.media/romania-russia-cyberattack-emails",
+   "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-12T22:25+00:00"
+  },
+  {
+   "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools",
+   "url": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-12T13:30+00:00"
+   "date": "2026-11-12T21:42+00:00"
   },
   {
-   "title": "Kazakhstan-linked hackers used AI agent to spy on Central Asian governments",
-   "url": "https://therecord.media/kazakhstan-hackers-central-asia",
+   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+   "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-12T20:16+00:00"
+  },
+  {
+   "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-12T20:15+00:00"
+  },
+  {
+   "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+   "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-12T19:51+00:00"
+  },
+  {
+   "title": "United to block customers from using AI agents, citing cyber threats",
+   "url": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-12T13:00+00:00"
+   "date": "2026-11-12T19:20+00:00"
   },
   {
-   "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
+   "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+   "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-12T12:11+00:00"
+   "date": "2026-11-12T19:12+00:00"
   },
   {
-   "title": "Flygbolag stoppar bokningar från AI-agenter",
-   "url": "https://computersweden.se/article/4247756/flygbolag-stoppar-bokningar-fran-ai-agenter.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-12T11:46+00:00"
-  },
-  {
-   "title": "AWS släpper emulator för sina molntjänster",
-   "url": "https://computersweden.se/article/4247778/aws-slapper-emulator-for-sina-molntjanster.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-12T11:45+00:00"
-  },
-  {
-   "title": "Adobe öppnar upp Creative Cloud för AI-assistenter",
-   "url": "https://computersweden.se/article/4247790/adobe-oppnar-upp-creative-cloud-for-ai-assistenter.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-12T11:45+00:00"
-  },
-  {
-   "title": "Microsoft confirms Windows security updates installation issues",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
-   "source": "BleepingComputer",
+   "title": "Shipping giant Maersk says recent cyber incident affected legacy system",
+   "url": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
+   "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-12T10:24+00:00"
+   "date": "2026-11-12T18:28+00:00"
   },
   {
-   "title": "Hackers plant GSocket on Linux servers for persistent access",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
-   "source": "BleepingComputer",
+   "title": "European authorities take down SteaIC malware servers for second time this year",
+   "url": "https://therecord.media/european-authorities-take-down-stealic-malware-second-time",
+   "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-12T09:38+00:00"
+   "date": "2026-11-12T16:21+00:00"
   },
   {
-   "title": "Hur bra är din exit-strategi för molnet?",
-   "url": "https://computersweden.se/article/4247350/hur-bra-ar-din-strategi-for-att-lamna-molntjansterna.html",
+   "title": "Nvidias vd Jensen Huang avgår",
+   "url": "https://computersweden.se/article/4247915/nvidias-vd-jensen-huang-avgar.html",
    "source": "Computer Sweden",
    "lang": "sv",
    "topic": "it",
-   "date": "2026-11-12T04:00+00:00"
+   "date": "2026-11-12T14:18+00:00"
   },
   {
-   "title": "Baker Tilly notifies clients of data breach at third-party provider",
-   "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T23:01+00:00"
+   "title": "Allt fler storföretag blickar mot öppna AI-modeller för att spara pengar",
+   "url": "https://computersweden.se/article/4247887/allt-fler-storforetag-blickar-mot-oppna-ai-modeller-for-att-spara-pengar.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-12T14:16+00:00"
+  },
+  {
+   "title": "Europeiska företag väljer allt oftare cybersäkerhet från EU",
+   "url": "https://computersweden.se/article/4247921/europeiska-foretag-valjer-allt-oftare-cybersakerhet-fran-eu.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-12T14:16+00:00"
+  },
+  {
+   "title": "Universitet uppmanas återgå till salstentor och muntliga prov på grund av AI",
+   "url": "https://computersweden.se/article/4247901/universitet-uppmanas-aterga-till-salstentor-och-muntliga-prov-pa-grund-av-ai.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-12T14:15+00:00"
   },
   {
    "title": "Who Runs the Ransomware Group Qilin?",
@@ -98,28 +122,12 @@
    "date": "2026-11-11T17:00+00:00"
   },
   {
-   "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
-   "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T16:57+00:00"
-  },
-  {
    "title": "Google DeepMind just mathematically verified key parts of Signal",
    "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
    "source": "Ars Technica",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-11T14:08+00:00"
-  },
-  {
-   "title": "Poland shuts down government services platform ePUAP following cyberattack",
-   "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T13:18+00:00"
   },
   {
    "title": "NCSC scheme will help critical organisations test their cyber defences",
@@ -184,14 +192,6 @@
    "lang": "en",
    "topic": "it",
    "date": "2026-11-09T17:05+00:00"
-  },
-  {
-   "title": "The climate case for AI has not been made",
-   "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-09T10:00+00:00"
   }
  ]
 }
