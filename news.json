@@ -1,13 +1,101 @@
 {
- "updated": "2026-11-12T22:43+00:00",
+ "updated": "2026-11-13T13:06+00:00",
  "items": [
   {
-   "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+   "title": "Microsoft says November security updates cause printing issues",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-12T22:25+00:00"
+   "date": "2026-11-13T12:27+00:00"
+  },
+  {
+   "title": "Omfattande störningar på Microsofts tjänster",
+   "url": "https://computersweden.se/article/4248356/omfattande-storningar-pa-microsofts-tjanster.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-13T11:54+00:00"
+  },
+  {
+   "title": "Nu ska Googles AI-sök ge bättre svar på komplexa frågor",
+   "url": "https://computersweden.se/article/4248368/nu-ska-googles-ai-sok-ge-battre-svar-pa-komplexa-fragor.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-13T11:53+00:00"
+  },
+  {
+   "title": "Europol stänger ner nätverk som attackerat miljontals",
+   "url": "https://computersweden.se/article/4248359/europol-stanger-ner-natverk-som-attackerat-miljontals.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-13T11:52+00:00"
+  },
+  {
+   "title": "Check Point warns of zero-day flaw exploited for root access",
+   "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T10:44+00:00"
+  },
+  {
+   "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+   "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-13T10:00+00:00"
+  },
+  {
+   "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+   "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-13T10:00+00:00"
+  },
+  {
+   "title": "Microsoft confirms Windows activation failures after November updates",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T09:36+00:00"
+  },
+  {
+   "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+   "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T08:34+00:00"
+  },
+  {
+   "title": "Boomen för AI-agenter ritar om CPU-marknaden",
+   "url": "https://computersweden.se/article/4247731/boomen-inom-agentbaserad-ai-forvantas-omforma-cpu-marknaden.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-13T04:00+00:00"
+  },
+  {
+   "title": "Record number of cyber incidents reported to UK privacy regulator",
+   "url": "https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T00:00+00:00"
+  },
+  {
+   "title": "NATO issues and then withdraws Russian taxi app travel advice for defense industry conference",
+   "url": "https://therecord.media/nato-issues-and-withdraws-guidance-over-russian-taxi-app",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T00:00+00:00"
   },
   {
    "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools",
@@ -26,84 +114,12 @@
    "date": "2026-11-12T20:16+00:00"
   },
   {
-   "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-12T20:15+00:00"
-  },
-  {
-   "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-   "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-12T19:51+00:00"
-  },
-  {
    "title": "United to block customers from using AI agents, citing cyber threats",
    "url": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-12T19:20+00:00"
-  },
-  {
-   "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-   "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-12T19:12+00:00"
-  },
-  {
-   "title": "Shipping giant Maersk says recent cyber incident affected legacy system",
-   "url": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-12T18:28+00:00"
-  },
-  {
-   "title": "European authorities take down SteaIC malware servers for second time this year",
-   "url": "https://therecord.media/european-authorities-take-down-stealic-malware-second-time",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-12T16:21+00:00"
-  },
-  {
-   "title": "Nvidias vd Jensen Huang avgår",
-   "url": "https://computersweden.se/article/4247915/nvidias-vd-jensen-huang-avgar.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-12T14:18+00:00"
-  },
-  {
-   "title": "Allt fler storföretag blickar mot öppna AI-modeller för att spara pengar",
-   "url": "https://computersweden.se/article/4247887/allt-fler-storforetag-blickar-mot-oppna-ai-modeller-for-att-spara-pengar.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-12T14:16+00:00"
-  },
-  {
-   "title": "Europeiska företag väljer allt oftare cybersäkerhet från EU",
-   "url": "https://computersweden.se/article/4247921/europeiska-foretag-valjer-allt-oftare-cybersakerhet-fran-eu.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-12T14:16+00:00"
-  },
-  {
-   "title": "Universitet uppmanas återgå till salstentor och muntliga prov på grund av AI",
-   "url": "https://computersweden.se/article/4247901/universitet-uppmanas-aterga-till-salstentor-och-muntliga-prov-pa-grund-av-ai.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-12T14:15+00:00"
   },
   {
    "title": "Who Runs the Ransomware Group Qilin?",
@@ -170,28 +186,12 @@
    "date": "2026-11-09T19:41+00:00"
   },
   {
-   "title": "The backlash about data centers might really just be about electricity",
-   "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-09T19:35+00:00"
-  },
-  {
    "title": "Claude Code is accidentally exposing secrets all over GitHub",
    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
    "source": "Ars Technica",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-09T17:24+00:00"
-  },
-  {
-   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-   "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-09T17:05+00:00"
   }
  ]
 }
