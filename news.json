@@ -1,45 +1,109 @@
 {
- "updated": "2026-11-13T13:06+00:00",
+ "updated": "2026-11-13T20:28+00:00",
  "items": [
   {
-   "title": "Microsoft says November security updates cause printing issues",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+   "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
+   "url": "https://therecord.media/city-of-osaka-japan-email-data-breach",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T19:43+00:00"
+  },
+  {
+   "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+   "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-13T12:27+00:00"
+   "date": "2026-11-13T19:38+00:00"
   },
   {
-   "title": "Omfattande störningar på Microsofts tjänster",
-   "url": "https://computersweden.se/article/4248356/omfattande-storningar-pa-microsofts-tjanster.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-13T11:54+00:00"
+   "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide",
+   "url": "https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T18:35+00:00"
   },
   {
-   "title": "Nu ska Googles AI-sök ge bättre svar på komplexa frågor",
-   "url": "https://computersweden.se/article/4248368/nu-ska-googles-ai-sok-ge-battre-svar-pa-komplexa-fragor.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-13T11:53+00:00"
-  },
-  {
-   "title": "Europol stänger ner nätverk som attackerat miljontals",
-   "url": "https://computersweden.se/article/4248359/europol-stanger-ner-natverk-som-attackerat-miljontals.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-13T11:52+00:00"
-  },
-  {
-   "title": "Check Point warns of zero-day flaw exploited for root access",
-   "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+   "title": "German military drone operations disrupted by cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-13T10:44+00:00"
+   "date": "2026-11-13T17:31+00:00"
+  },
+  {
+   "title": "University of Texas at Arlington warns personal information stolen during cyberattack",
+   "url": "https://therecord.media/university-of-texas-arlington-warns-data-breach",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T17:26+00:00"
+  },
+  {
+   "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
+   "url": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T16:32+00:00"
+  },
+  {
+   "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+   "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T16:26+00:00"
+  },
+  {
+   "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+   "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T16:21+00:00"
+  },
+  {
+   "title": "How one AI agent exposed five critical enterprise security gaps",
+   "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T15:01+00:00"
+  },
+  {
+   "title": "Vi behöver faktiskt datacenter",
+   "url": "https://computersweden.se/article/4248316/vi-behover-faktiskt-datacenter.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-13T14:43+00:00"
+  },
+  {
+   "title": "Tinder får 120 miljoner i GDPR-böter",
+   "url": "https://computersweden.se/article/4248475/tinder-far-120-miljoner-i-gdpr-boter.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-13T14:42+00:00"
+  },
+  {
+   "title": "Studie: AI-chattbotar rekommenderar falska nätbutiker",
+   "url": "https://computersweden.se/article/4248485/studie-ai-chattbotar-rekommenderar-falska-natbutiker.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-13T14:41+00:00"
+  },
+  {
+   "title": "Nordkoreanska hackarnas nya taktik – fejkade videosamtal",
+   "url": "https://computersweden.se/article/4248457/nordkoreanska-hackarnas-nya-taktik-fejkade-videosamtal.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-13T14:41+00:00"
   },
   {
    "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
@@ -58,68 +122,12 @@
    "date": "2026-11-13T10:00+00:00"
   },
   {
-   "title": "Microsoft confirms Windows activation failures after November updates",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-13T09:36+00:00"
-  },
-  {
-   "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-   "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-13T08:34+00:00"
-  },
-  {
-   "title": "Boomen för AI-agenter ritar om CPU-marknaden",
-   "url": "https://computersweden.se/article/4247731/boomen-inom-agentbaserad-ai-forvantas-omforma-cpu-marknaden.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-13T04:00+00:00"
-  },
-  {
-   "title": "Record number of cyber incidents reported to UK privacy regulator",
-   "url": "https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-13T00:00+00:00"
-  },
-  {
-   "title": "NATO issues and then withdraws Russian taxi app travel advice for defense industry conference",
-   "url": "https://therecord.media/nato-issues-and-withdraws-guidance-over-russian-taxi-app",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-13T00:00+00:00"
-  },
-  {
-   "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools",
-   "url": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-12T21:42+00:00"
-  },
-  {
    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
    "source": "MIT Technology Review",
    "lang": "en",
    "topic": "it",
    "date": "2026-11-12T20:16+00:00"
-  },
-  {
-   "title": "United to block customers from using AI agents, citing cyber threats",
-   "url": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-12T19:20+00:00"
   },
   {
    "title": "Who Runs the Ransomware Group Qilin?",
@@ -184,14 +192,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-09T19:41+00:00"
-  },
-  {
-   "title": "Claude Code is accidentally exposing secrets all over GitHub",
-   "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-09T17:24+00:00"
   }
  ]
 }
