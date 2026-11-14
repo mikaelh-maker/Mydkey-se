@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-13T20:28+00:00",
+ "updated": "2026-11-14T01:26+00:00",
  "items": [
+  {
+   "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’",
+   "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-13T21:32+00:00"
+  },
   {
    "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
    "url": "https://therecord.media/city-of-osaka-japan-email-data-breach",
@@ -40,14 +48,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-13T17:26+00:00"
-  },
-  {
-   "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
-   "url": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-13T16:32+00:00"
   },
   {
    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
