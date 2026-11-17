@@ -1,21 +1,125 @@
 {
- "updated": "2026-11-17T14:23+00:00",
+ "updated": "2026-11-17T23:50+00:00",
  "items": [
   {
-   "title": "Uber says nearly 150,000 impacted by third-party breach",
-   "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
-   "source": "The Record",
+   "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+   "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+   "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-18T01:20+00:00"
+   "date": "2026-11-17T23:04+00:00"
   },
   {
-   "title": "Autistic teen hacker pleads guilty to leak of Grand Theft Auto VI footage",
-   "url": "https://therecord.media/autistic-teen-hacker-guilty-plea-britain-gta6-leak",
+   "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+   "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T22:32+00:00"
+  },
+  {
+   "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+   "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T21:27+00:00"
+  },
+  {
+   "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
+   "url": "https://therecord.media/optimizely-malicious-code-customer-sites",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-17T14:09+00:00"
+   "date": "2026-11-17T21:20+00:00"
+  },
+  {
+   "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T20:51+00:00"
+  },
+  {
+   "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+   "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T19:24+00:00"
+  },
+  {
+   "title": "Kazakh ransomware hacking suspect extradited from Italy",
+   "url": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T19:09+00:00"
+  },
+  {
+   "title": "Chinese state group developing automated attack tool for cyber espionage, Google says",
+   "url": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T18:50+00:00"
+  },
+  {
+   "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+   "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-17T18:46+00:00"
+  },
+  {
+   "title": "Hydropower hit record lows in the US Southwest this summer",
+   "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-17T17:52+00:00"
+  },
+  {
+   "title": "California fines Hertz $1.5 million for breaking state data privacy law",
+   "url": "https://therecord.media/california-fines-hertz-state-data-privacy-law",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T17:13+00:00"
+  },
+  {
+   "title": "Research Reports",
+   "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-17T14:39+00:00"
+  },
+  {
+   "title": "USA:s största datacenter släpper ut lika mycket koldioxid som Danmark",
+   "url": "https://computersweden.se/article/4249671/usas-storsta-datacenter-slapper-ut-lika-mycket-koldioxid-som-danmark.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-17T14:36+00:00"
+  },
+  {
+   "title": "Stulna Windows-datorer ska kunna fjärrlåsas",
+   "url": "https://computersweden.se/article/4249680/stulna-windows-datorer-ska-kunna-fjarrlasas.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-17T14:36+00:00"
+  },
+  {
+   "title": "Outlook-haveriet bidrog till poololycka på hotell – 15 skadade",
+   "url": "https://computersweden.se/article/4249691/outlook-haveriet-bidrog-till-poololycka-pa-hotell-15-skadade.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-17T14:35+00:00"
   },
   {
    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
@@ -34,38 +138,6 @@
    "date": "2026-11-17T12:04+00:00"
   },
   {
-   "title": "Apple lägger till varningar för AI-appar i Mac OS",
-   "url": "https://computersweden.se/article/4249626/apple-lagger-till-varningar-for-ai-appar-i-mac-os.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-17T12:03+00:00"
-  },
-  {
-   "title": "Google varnar för AI-styrda cyberattacker",
-   "url": "https://computersweden.se/article/4249619/google-varnar-for-ai-styrda-cyberattacker.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-17T12:03+00:00"
-  },
-  {
-   "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T11:19+00:00"
-  },
-  {
-   "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-   "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T09:44+00:00"
-  },
-  {
    "title": "Uppmaning till ökad vaksamhet efter flera fall av nätfiske",
    "url": "https://www.cert.se/2026/11/uppmanar-till-okad-vaksamhet-natfiske.html",
    "source": "CERT-SE",
@@ -74,52 +146,12 @@
    "date": "2026-11-17T09:00+00:00"
   },
   {
-   "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-   "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T08:35+00:00"
-  },
-  {
-   "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-   "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T07:25+00:00"
-  },
-  {
-   "title": "Sökes: alternativ till SAP, VMware och Java",
-   "url": "https://computersweden.se/article/4248895/it-chefer-soker-alternativ-till-sap-vmware-och-java.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-17T04:00+00:00"
-  },
-  {
-   "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness",
-   "url": "https://therecord.media/california-sues-openai-hugging-face",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-16T21:40+00:00"
-  },
-  {
    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
    "source": "Ars Technica",
    "lang": "en",
    "topic": "it",
    "date": "2026-11-16T20:37+00:00"
-  },
-  {
-   "title": "Match fined $10 million for alleged Tinder privacy violations",
-   "url": "https://therecord.media/ireland-tinder-privacy-fine",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-16T20:15+00:00"
   },
   {
    "title": "The open-source movement wants Jensen Huang back",
@@ -136,30 +168,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-13T16:26+00:00"
-  },
-  {
-   "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-   "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-13T10:00+00:00"
-  },
-  {
-   "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-   "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-13T10:00+00:00"
-  },
-  {
-   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-   "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-12T20:16+00:00"
   },
   {
    "title": "Who Runs the Ransomware Group Qilin?",
@@ -184,14 +192,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-11T12:00+00:00"
-  },
-  {
-   "title": "Patchtisdag november 2026",
-   "url": "https://www.cert.se/2026/11/patchtisdag-november-2026.html",
-   "source": "CERT-SE",
-   "lang": "sv",
-   "topic": "sec",
-   "date": "2026-11-11T08:20+00:00"
   }
  ]
 }
