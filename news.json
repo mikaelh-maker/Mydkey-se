@@ -1,13 +1,101 @@
 {
- "updated": "2026-11-17T00:47+00:00",
+ "updated": "2026-11-17T14:23+00:00",
  "items": [
   {
-   "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
-   "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+   "title": "Uber says nearly 150,000 impacted by third-party breach",
+   "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-18T01:20+00:00"
+  },
+  {
+   "title": "Autistic teen hacker pleads guilty to leak of Grand Theft Auto VI footage",
+   "url": "https://therecord.media/autistic-teen-hacker-guilty-plea-britain-gta6-leak",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T14:09+00:00"
+  },
+  {
+   "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+   "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T14:00+00:00"
+  },
+  {
+   "title": "Kalifornien stämmer Open AI efter AI-attackerna",
+   "url": "https://computersweden.se/article/4249600/kalifornien-stammer-open-ai-efter-ai-attackerna.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-17T12:04+00:00"
+  },
+  {
+   "title": "Apple lägger till varningar för AI-appar i Mac OS",
+   "url": "https://computersweden.se/article/4249626/apple-lagger-till-varningar-for-ai-appar-i-mac-os.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-17T12:03+00:00"
+  },
+  {
+   "title": "Google varnar för AI-styrda cyberattacker",
+   "url": "https://computersweden.se/article/4249619/google-varnar-for-ai-styrda-cyberattacker.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-17T12:03+00:00"
+  },
+  {
+   "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-16T22:54+00:00"
+   "date": "2026-11-17T11:19+00:00"
+  },
+  {
+   "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+   "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T09:44+00:00"
+  },
+  {
+   "title": "Uppmaning till ökad vaksamhet efter flera fall av nätfiske",
+   "url": "https://www.cert.se/2026/11/uppmanar-till-okad-vaksamhet-natfiske.html",
+   "source": "CERT-SE",
+   "lang": "sv",
+   "topic": "sec",
+   "date": "2026-11-17T09:00+00:00"
+  },
+  {
+   "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+   "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T08:35+00:00"
+  },
+  {
+   "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-17T07:25+00:00"
+  },
+  {
+   "title": "Sökes: alternativ till SAP, VMware och Java",
+   "url": "https://computersweden.se/article/4248895/it-chefer-soker-alternativ-till-sap-vmware-och-java.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-17T04:00+00:00"
   },
   {
    "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness",
@@ -16,22 +104,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-16T21:40+00:00"
-  },
-  {
-   "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-   "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-16T21:31+00:00"
-  },
-  {
-   "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-   "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-16T20:59+00:00"
   },
   {
    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
@@ -50,68 +122,12 @@
    "date": "2026-11-16T20:15+00:00"
   },
   {
-   "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-   "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-16T19:57+00:00"
-  },
-  {
    "title": "The open-source movement wants Jensen Huang back",
    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
    "source": "MIT Technology Review",
    "lang": "en",
    "topic": "it",
    "date": "2026-11-16T18:38+00:00"
-  },
-  {
-   "title": "Italian regulator fines Meta $886 million for violating data privacy law",
-   "url": "https://therecord.media/italian-regulator-fines-meta-886-million-privacy",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-16T18:05+00:00"
-  },
-  {
-   "title": "King Charles opens new HQ for National Cyber Force, UK’s offensive hacking unit",
-   "url": "https://therecord.media/uk-national-cyber-force-headquarters-opens",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-16T17:22+00:00"
-  },
-  {
-   "title": "Microsoft avslöjar orsaken bakom Outlook-haveriet",
-   "url": "https://computersweden.se/article/4249054/microsoft-avslojar-orsaken-bakom-outlook-haveriet.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-16T14:51+00:00"
-  },
-  {
-   "title": "EU hoppas på globala AI-regler efter USA:s mellanårsval",
-   "url": "https://computersweden.se/article/4249076/eu-hoppas-pa-globala-ai-regler-efter-usas-mellanarsval.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-16T14:50+00:00"
-  },
-  {
-   "title": "Estland planerar att kunna styra landet från molnet vid en rysk invasion",
-   "url": "https://computersweden.se/article/4249102/estland-planerar-att-kunna-styra-landet-fran-molnet-vid-en-rysk-invasion.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-16T14:50+00:00"
-  },
-  {
-   "title": "Uppgifter: Jensen Huang kan bli Nvidias vd på nytt",
-   "url": "https://computersweden.se/article/4249001/uppgifter-jensen-huang-kan-bli-nvidias-vd-pa-nytt.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-16T12:45+00:00"
   },
   {
    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
@@ -170,28 +186,12 @@
    "date": "2026-11-11T12:00+00:00"
   },
   {
-   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-   "source": "Krebs on Security",
-   "lang": "en",
+   "title": "Patchtisdag november 2026",
+   "url": "https://www.cert.se/2026/11/patchtisdag-november-2026.html",
+   "source": "CERT-SE",
+   "lang": "sv",
    "topic": "sec",
-   "date": "2026-11-10T21:55+00:00"
-  },
-  {
-   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-   "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-10T21:12+00:00"
-  },
-  {
-   "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-   "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-09T19:41+00:00"
+   "date": "2026-11-11T08:20+00:00"
   }
  ]
 }
