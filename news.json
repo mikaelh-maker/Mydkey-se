@@ -1,13 +1,117 @@
 {
- "updated": "2026-11-17T23:50+00:00",
+ "updated": "2026-11-18T13:57+00:00",
  "items": [
   {
-   "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
-   "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+   "title": "Ice hockey governing body website defaced by hackers amid dispute over Russia's exclusion",
+   "url": "https://therecord.media/russia-hockey-cyberattack-championships",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-18T13:45+00:00"
+  },
+  {
+   "title": "Cyberattack hits Norwegian energy giant Equinor, disrupting internal services",
+   "url": "https://therecord.media/norway-equinor-cyberattack-energy",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-18T13:30+00:00"
+  },
+  {
+   "title": "Kritisk sårbarhet i Oracle Java",
+   "url": "https://www.cert.se/2026/11/kritisk-sarbarhet-i-oracle-java.html",
+   "source": "CERT-SE",
+   "lang": "sv",
+   "topic": "sec",
+   "date": "2026-11-18T13:20+00:00"
+  },
+  {
+   "title": "Varning för Java4Shell – kritisk sårbarhet i Java",
+   "url": "https://computersweden.se/article/4250127/varning-for-java4shell-kritisk-sarbarhet-i-java.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-18T11:55+00:00"
+  },
+  {
+   "title": "Nvidias styrelse nobbar Jensen Huang-comeback",
+   "url": "https://computersweden.se/article/4250137/nvidias-styrelse-nobbar-jensen-huang-comeback.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-18T11:54+00:00"
+  },
+  {
+   "title": "Microsoft släpper sju nya AI-modeller",
+   "url": "https://computersweden.se/article/4250148/microsoft-slapper-sju-nya-ai-modeller.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-18T11:54+00:00"
+  },
+  {
+   "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+   "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-17T23:04+00:00"
+   "date": "2026-11-18T11:50+00:00"
+  },
+  {
+   "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-18T10:35+00:00"
+  },
+  {
+   "title": "This smell startup says its AI nose is as good as a human’s",
+   "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-18T10:20+00:00"
+  },
+  {
+   "title": "Microsoft announces Windows Server 2028 with hardened security",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-18T09:24+00:00"
+  },
+  {
+   "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-18T08:24+00:00"
+  },
+  {
+   "title": "Kina i topp – här är världens snabbaste superdatorer",
+   "url": "https://computersweden.se/article/4249537/kinesiska-lineshine-ar-fortfarande-varldens-snabbaste-superdator.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-18T04:00+00:00"
+  },
+  {
+   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+   "source": "Krebs on Security",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-18T02:52+00:00"
+  },
+  {
+   "title": "CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500",
+   "url": "https://therecord.media/cisa-issues-java4shell-alert",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-18T00:00+00:00"
   },
   {
    "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
@@ -18,52 +122,12 @@
    "date": "2026-11-17T22:32+00:00"
   },
   {
-   "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-   "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T21:27+00:00"
-  },
-  {
    "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
    "url": "https://therecord.media/optimizely-malicious-code-customer-sites",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-17T21:20+00:00"
-  },
-  {
-   "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
-   "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T20:51+00:00"
-  },
-  {
-   "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
-   "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T19:24+00:00"
-  },
-  {
-   "title": "Kazakh ransomware hacking suspect extradited from Italy",
-   "url": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T19:09+00:00"
-  },
-  {
-   "title": "Chinese state group developing automated attack tool for cyber espionage, Google says",
-   "url": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T18:50+00:00"
   },
   {
    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
@@ -82,14 +146,6 @@
    "date": "2026-11-17T17:52+00:00"
   },
   {
-   "title": "California fines Hertz $1.5 million for breaking state data privacy law",
-   "url": "https://therecord.media/california-fines-hertz-state-data-privacy-law",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T17:13+00:00"
-  },
-  {
    "title": "Research Reports",
    "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
    "source": "MIT Technology Review",
@@ -98,44 +154,12 @@
    "date": "2026-11-17T14:39+00:00"
   },
   {
-   "title": "USA:s största datacenter släpper ut lika mycket koldioxid som Danmark",
-   "url": "https://computersweden.se/article/4249671/usas-storsta-datacenter-slapper-ut-lika-mycket-koldioxid-som-danmark.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-17T14:36+00:00"
-  },
-  {
-   "title": "Stulna Windows-datorer ska kunna fjärrlåsas",
-   "url": "https://computersweden.se/article/4249680/stulna-windows-datorer-ska-kunna-fjarrlasas.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-17T14:36+00:00"
-  },
-  {
-   "title": "Outlook-haveriet bidrog till poololycka på hotell – 15 skadade",
-   "url": "https://computersweden.se/article/4249691/outlook-haveriet-bidrog-till-poololycka-pa-hotell-15-skadade.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-17T14:35+00:00"
-  },
-  {
    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
    "source": "Ars Technica",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-17T14:00+00:00"
-  },
-  {
-   "title": "Kalifornien stämmer Open AI efter AI-attackerna",
-   "url": "https://computersweden.se/article/4249600/kalifornien-stammer-open-ai-efter-ai-attackerna.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-17T12:04+00:00"
   },
   {
    "title": "Uppmaning till ökad vaksamhet efter flera fall av nätfiske",
@@ -154,14 +178,6 @@
    "date": "2026-11-16T20:37+00:00"
   },
   {
-   "title": "The open-source movement wants Jensen Huang back",
-   "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-16T18:38+00:00"
-  },
-  {
    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
    "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
    "source": "Ars Technica",
@@ -176,22 +192,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-11T18:06+00:00"
-  },
-  {
-   "title": "Google DeepMind just mathematically verified key parts of Signal",
-   "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T14:08+00:00"
-  },
-  {
-   "title": "NCSC scheme will help critical organisations test their cyber defences",
-   "url": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences",
-   "source": "NCSC UK",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T12:00+00:00"
   }
  ]
 }
