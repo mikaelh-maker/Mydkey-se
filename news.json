@@ -1,21 +1,117 @@
 {
- "updated": "2026-11-18T23:22+00:00",
+ "updated": "2026-11-19T14:25+00:00",
  "items": [
   {
-   "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-   "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-   "source": "BleepingComputer",
+   "title": "Ukraine exposes ransomware network extorting US oil, healthcare firms",
+   "url": "https://therecord.media/ukraine-ransomware-arrests-cyber",
+   "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-18T23:08+00:00"
+   "date": "2026-11-19T13:30+00:00"
   },
   {
-   "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-   "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+   "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-18T20:49+00:00"
+   "date": "2026-11-19T13:08+00:00"
+  },
+  {
+   "title": "AI-boomen väntas öka datacenters utsläpp med 70 procent till 2030",
+   "url": "https://computersweden.se/article/4250706/ai-boomen-vantas-oka-datacenters-utslapp-med-70-procent-till-2030.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-19T12:39+00:00"
+  },
+  {
+   "title": "Evroc och Telia Cygate går ihop om suverän molntjänst för offentlig sektor",
+   "url": "https://computersweden.se/article/4250700/evroc-och-telia-cygate-gar-ihop-om-suveran-molntjanst-for-offentlig-sektor.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-19T12:38+00:00"
+  },
+  {
+   "title": "Kritisk sårbarhet i Apache Axis",
+   "url": "https://www.cert.se/2026/11/kritisk-sarbarhet-i-apache.html",
+   "source": "CERT-SE",
+   "lang": "sv",
+   "topic": "sec",
+   "date": "2026-11-19T12:00+00:00"
+  },
+  {
+   "title": "A human liver has been kept alive outside the body for a record seven weeks",
+   "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-19T12:00+00:00"
+  },
+  {
+   "title": "AI-attack mot EU-kommissionen",
+   "url": "https://computersweden.se/article/4250650/ai-attack-mot-eu-kommissionen.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-19T11:52+00:00"
+  },
+  {
+   "title": "Google släpper mellanmodellen Neon – snabbare än Carbon",
+   "url": "https://computersweden.se/article/4250666/google-slapper-mellanmodellen-neon-snabbare-an-carbon.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-19T11:49+00:00"
+  },
+  {
+   "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-19T11:46+00:00"
+  },
+  {
+   "title": "Allvarliga sårbarheter i NGNIX",
+   "url": "https://www.cert.se/2026/11/allvarliga-sarbarheter-i-nginx.html",
+   "source": "CERT-SE",
+   "lang": "sv",
+   "topic": "sec",
+   "date": "2026-11-19T11:20+00:00"
+  },
+  {
+   "title": "How to tell a cyberattack from a plain old outage",
+   "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-19T11:13+00:00"
+  },
+  {
+   "title": "Microsoft confirms app installation, launch issues after hotpatch",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-19T10:35+00:00"
+  },
+  {
+   "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+   "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-19T09:23+00:00"
+  },
+  {
+   "title": "Russian charged with spying on Palantir employees for Moscow",
+   "url": "https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-19T00:00+00:00"
   },
   {
    "title": "Judge signs off on sale of Spirit Airlines’ data to Google",
@@ -34,38 +130,6 @@
    "date": "2026-11-18T20:00+00:00"
   },
   {
-   "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-   "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-18T19:39+00:00"
-  },
-  {
-   "title": "Lawmakers call on White House to develop defensive AI cyber systems",
-   "url": "https://therecord.media/ai-cyber-white-house",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-18T19:00+00:00"
-  },
-  {
-   "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-   "url": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-18T16:58+00:00"
-  },
-  {
-   "title": "NSA continues response to interruptions in classified internal network",
-   "url": "https://therecord.media/nsa-continues-response-to-nsa-net-problems",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-18T16:19+00:00"
-  },
-  {
    "title": "The AI Hype Index: AI is everywhere",
    "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
    "source": "MIT Technology Review",
@@ -74,44 +138,12 @@
    "date": "2026-11-18T14:42+00:00"
   },
   {
-   "title": "Våg av nätfiske i Sverige – NCSC uppmanar till vaksamhet",
-   "url": "https://computersweden.se/article/4250193/vag-av-natfiske-i-sverige-ncsc-uppmanar-till-vaksamhet.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-18T14:17+00:00"
-  },
-  {
-   "title": "AI ställde bättre frågor än revisorerna i stort KPMG-test",
-   "url": "https://computersweden.se/article/4250198/ai-stallde-battre-fragor-an-revisorerna-i-stort-kpmg-test.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-18T14:16+00:00"
-  },
-  {
-   "title": "AI-modeller pekade ut civila som militära mål i tester",
-   "url": "https://computersweden.se/article/4250211/ai-modeller-pekade-ut-civila-som-militara-mal-i-tester.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-18T14:16+00:00"
-  },
-  {
-   "title": "Kritisk sårbarhet i Oracle Java",
-   "url": "https://www.cert.se/2026/11/kritisk-sarbarhet-i-oracle-java.html",
+   "title": "Allvarlig sårbarhet i Oracle Java",
+   "url": "https://www.cert.se/2026/11/allvarlig-sarbarhet-i-oracle-java.html",
    "source": "CERT-SE",
    "lang": "sv",
    "topic": "sec",
    "date": "2026-11-18T13:20+00:00"
-  },
-  {
-   "title": "Varning för Java4Shell – kritisk sårbarhet i Java",
-   "url": "https://computersweden.se/article/4250127/varning-for-java4shell-kritisk-sarbarhet-i-java.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-18T11:55+00:00"
   },
   {
    "title": "This smell startup says its AI nose is as good as a human’s",
@@ -146,14 +178,6 @@
    "date": "2026-11-17T18:46+00:00"
   },
   {
-   "title": "Hydropower hit record lows in the US Southwest this summer",
-   "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-17T17:52+00:00"
-  },
-  {
    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
    "source": "Ars Technica",
@@ -168,30 +192,6 @@
    "lang": "sv",
    "topic": "sec",
    "date": "2026-11-17T09:00+00:00"
-  },
-  {
-   "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-   "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-16T20:37+00:00"
-  },
-  {
-   "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-   "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-13T16:26+00:00"
-  },
-  {
-   "title": "Who Runs the Ransomware Group Qilin?",
-   "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
-   "source": "Krebs on Security",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-11T18:06+00:00"
   }
  ]
 }
