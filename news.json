@@ -1,77 +1,117 @@
 {
- "updated": "2026-11-20T14:00+00:00",
+ "updated": "2026-11-20T23:05+00:00",
  "items": [
   {
-   "title": "N-able says recent security breach led to major service outage",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T13:18+00:00"
-  },
-  {
-   "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T12:14+00:00"
-  },
-  {
-   "title": "Så ska Copilot bli ett nav för teamsamarbete",
-   "url": "https://computersweden.se/article/4251274/microsoft-positionerar-copilot-som-en-knutpunkt-for-teamsamarbete.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-20T11:48+00:00"
-  },
-  {
-   "title": "Svenska taxiföretaget utsatt för intrång – personuppgifter har läckt ut",
-   "url": "https://computersweden.se/article/4251358/svenska-taxiforetaget-utsatt-for-intrang-personuppgifter-har-lackt-ut.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-20T11:48+00:00"
-  },
-  {
-   "title": "Nu kan Gemini styra appar på Mac-datorer",
-   "url": "https://computersweden.se/article/4251367/nu-kan-gemini-styra-appar-pa-mac-datorer.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-20T11:47+00:00"
-  },
-  {
-   "title": "Canva gör det möjligt att stänga av AI-funktioner",
-   "url": "https://computersweden.se/article/4251371/canva-gor-det-mojligt-att-stanga-av-ai-funktioner.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-20T11:46+00:00"
-  },
-  {
-   "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-   "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T10:57+00:00"
-  },
-  {
-   "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T09:25+00:00"
-  },
-  {
-   "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
-   "url": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
+   "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
+   "url": "https://therecord.media/west-virginia-legislature-cyberattack",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-19T21:19+00:00"
+   "date": "2026-11-20T21:34+00:00"
+  },
+  {
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+   "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-20T20:59+00:00"
+  },
+  {
+   "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+   "url": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-20T20:25+00:00"
+  },
+  {
+   "title": "Container Store restores systems after cyberattack",
+   "url": "https://therecord.media/container-store-restores-systems-cyberattack",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-20T19:32+00:00"
+  },
+  {
+   "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-20T18:51+00:00"
+  },
+  {
+   "title": "The most misunderstood graph in AI just got a major update",
+   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-20T18:15+00:00"
+  },
+  {
+   "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-20T17:30+00:00"
+  },
+  {
+   "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
+   "url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-20T17:30+00:00"
+  },
+  {
+   "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+   "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-20T15:58+00:00"
+  },
+  {
+   "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+   "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-20T15:00+00:00"
+  },
+  {
+   "title": "Kan du driva ditt företag med papper och penna?",
+   "url": "https://computersweden.se/article/4251288/kan-du-driva-ditt-foretag-med-papper-och-penna.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-20T14:30+00:00"
+  },
+  {
+   "title": "Signal blockerar skärmdumpar för att hindra AI från att läsa meddelanden",
+   "url": "https://computersweden.se/article/4251462/signal-blockerar-skarmdumpar-for-att-hindra-ai-fran-att-lasa-meddelanden.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-20T14:29+00:00"
+  },
+  {
+   "title": "Google har byggt eget internet för att träna AI-agenter",
+   "url": "https://computersweden.se/article/4251478/google-har-byggt-eget-internet-for-att-trana-ai-agenter.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-20T14:29+00:00"
+  },
+  {
+   "title": "Tyskland vill köpa loss Tiktok i Europa – har investerare redo",
+   "url": "https://computersweden.se/article/4251483/tyskland-vill-kopa-loss-tiktok-i-europa-har-investerare-redo.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-20T14:28+00:00"
   },
   {
    "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
@@ -80,30 +120,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-19T20:29+00:00"
-  },
-  {
-   "title": "DOJ, DHS partner on new unit tackling scams and cybercrime",
-   "url": "https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-19T17:25+00:00"
-  },
-  {
-   "title": "CISA nominee LoSapio vows to bolster cyber defenses while denying Jan. 6 Capitol attack",
-   "url": "https://therecord.media/cisa-losapio-nomination-trump",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-19T17:00+00:00"
-  },
-  {
-   "title": "UK court confirms British government served Apple with secret encryption notice",
-   "url": "https://therecord.media/apple-uk-encryption-notice",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-19T16:15+00:00"
   },
   {
    "title": "Kritisk sårbarhet i Apache Axis",
@@ -176,22 +192,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-17T22:32+00:00"
-  },
-  {
-   "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-   "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-17T18:46+00:00"
-  },
-  {
-   "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-   "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T14:00+00:00"
   }
  ]
 }
