@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-20T23:05+00:00",
+ "updated": "2026-11-21T13:27+00:00",
  "items": [
+  {
+   "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+   "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "source": "Krebs on Security",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-21T00:36+00:00"
+  },
   {
    "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
    "url": "https://therecord.media/west-virginia-legislature-cyberattack",
@@ -184,14 +192,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-18T02:52+00:00"
-  },
-  {
-   "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-   "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-17T22:32+00:00"
   }
  ]
 }
