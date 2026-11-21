@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-21T13:27+00:00",
+ "updated": "2026-11-21T22:11+00:00",
  "items": [
+  {
+   "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+   "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-21T18:01+00:00"
+  },
+  {
+   "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+   "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-21T15:17+00:00"
+  },
+  {
+   "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-21T14:26+00:00"
+  },
   {
    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -58,36 +82,12 @@
    "date": "2026-11-20T18:15+00:00"
   },
   {
-   "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T17:30+00:00"
-  },
-  {
    "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
    "url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-20T17:30+00:00"
-  },
-  {
-   "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-   "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T15:58+00:00"
-  },
-  {
-   "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-   "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T15:00+00:00"
   },
   {
    "title": "Kan du driva ditt företag med papper och penna?",
