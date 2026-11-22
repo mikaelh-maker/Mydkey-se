@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-22T13:20+00:00",
+ "updated": "2026-11-22T22:27+00:00",
  "items": [
+  {
+   "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-22T18:45+00:00"
+  },
+  {
+   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+   "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-22T15:43+00:00"
+  },
+  {
+   "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+   "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-22T15:15+00:00"
+  },
   {
    "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
    "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
@@ -8,30 +32,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-21T22:59+00:00"
-  },
-  {
-   "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-   "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-21T18:01+00:00"
-  },
-  {
-   "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-   "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-21T15:17+00:00"
-  },
-  {
-   "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-21T14:26+00:00"
   },
   {
    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
