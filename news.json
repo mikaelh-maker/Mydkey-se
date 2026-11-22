@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-21T22:11+00:00",
+ "updated": "2026-11-22T13:20+00:00",
  "items": [
+  {
+   "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+   "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-21T22:59+00:00"
+  },
   {
    "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
    "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
@@ -64,14 +72,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-20T19:32+00:00"
-  },
-  {
-   "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T18:51+00:00"
   },
   {
    "title": "The most misunderstood graph in AI just got a major update",
