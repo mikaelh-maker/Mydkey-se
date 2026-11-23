@@ -1,37 +1,93 @@
 {
- "updated": "2026-11-22T22:27+00:00",
+ "updated": "2026-11-23T15:57+00:00",
  "items": [
   {
-   "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-   "source": "BleepingComputer",
+   "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
+   "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
+   "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-22T18:45+00:00"
+   "date": "2026-11-24T00:00+00:00"
   },
   {
-   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-   "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-   "source": "BleepingComputer",
+   "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
+   "url": "https://therecord.media/norway-microsoft-cyberattack-equinor",
+   "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-22T15:43+00:00"
+   "date": "2026-11-23T15:45+00:00"
   },
   {
-   "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-   "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-   "source": "BleepingComputer",
+   "title": "'Overwhelming' support leads Trump to lock in Davies for national cyber czar",
+   "url": "https://therecord.media/kirsten-davies-trump-intends-nominate-national-cyber-director",
+   "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-22T15:15+00:00"
+   "date": "2026-11-23T15:14+00:00"
   },
   {
-   "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-   "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+   "title": "AI Agents Are Creating a Shared Responsibility Gap",
+   "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-21T22:59+00:00"
+   "date": "2026-11-23T15:00+00:00"
+  },
+  {
+   "title": "Jensen Huang tillbaka som vd för Nvidia",
+   "url": "https://computersweden.se/article/4252072/jensen-huang-tillbaka-som-vd-for-nvidia.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-23T14:12+00:00"
+  },
+  {
+   "title": "AI-servrar blir upp till 45 procent dyrare trots att avtal redan tecknats",
+   "url": "https://computersweden.se/article/4252041/ai-servrar-blir-upp-till-45-procent-dyrare-trots-att-avtal-redan-tecknats.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-23T13:46+00:00"
+  },
+  {
+   "title": "Crowdstrike köper Zscaler för 450 miljarder",
+   "url": "https://computersweden.se/article/4252047/crowdstrike-koper-zscaler-for-450-miljarder.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-23T13:45+00:00"
+  },
+  {
+   "title": "Trump hotar stoppa amerikanska AI-datacenter utomlands",
+   "url": "https://computersweden.se/article/4252044/trump-hotar-stoppa-amerikanska-ai-datacenter-utomlands.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-23T13:44+00:00"
+  },
+  {
+   "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-23T13:28+00:00"
+  },
+  {
+   "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
+   "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-23T12:02+00:00"
+  },
+  {
+   "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-23T09:11+00:00"
   },
   {
    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
@@ -58,68 +114,12 @@
    "date": "2026-11-20T20:59+00:00"
   },
   {
-   "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
-   "url": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T20:25+00:00"
-  },
-  {
-   "title": "Container Store restores systems after cyberattack",
-   "url": "https://therecord.media/container-store-restores-systems-cyberattack",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T19:32+00:00"
-  },
-  {
    "title": "The most misunderstood graph in AI just got a major update",
    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
    "source": "MIT Technology Review",
    "lang": "en",
    "topic": "it",
    "date": "2026-11-20T18:15+00:00"
-  },
-  {
-   "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
-   "url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T17:30+00:00"
-  },
-  {
-   "title": "Kan du driva ditt företag med papper och penna?",
-   "url": "https://computersweden.se/article/4251288/kan-du-driva-ditt-foretag-med-papper-och-penna.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-20T14:30+00:00"
-  },
-  {
-   "title": "Signal blockerar skärmdumpar för att hindra AI från att läsa meddelanden",
-   "url": "https://computersweden.se/article/4251462/signal-blockerar-skarmdumpar-for-att-hindra-ai-fran-att-lasa-meddelanden.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-20T14:29+00:00"
-  },
-  {
-   "title": "Google har byggt eget internet för att träna AI-agenter",
-   "url": "https://computersweden.se/article/4251478/google-har-byggt-eget-internet-for-att-trana-ai-agenter.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-20T14:29+00:00"
-  },
-  {
-   "title": "Tyskland vill köpa loss Tiktok i Europa – har investerare redo",
-   "url": "https://computersweden.se/article/4251483/tyskland-vill-kopa-loss-tiktok-i-europa-har-investerare-redo.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-20T14:28+00:00"
   },
   {
    "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
