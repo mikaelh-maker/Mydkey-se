@@ -1,61 +1,125 @@
 {
- "updated": "2026-11-24T03:20+00:00",
+ "updated": "2026-11-24T15:52+00:00",
  "items": [
   {
-   "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
-   "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
+   "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+   "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T15:10+00:00"
+  },
+  {
+   "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+   "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T15:01+00:00"
+  },
+  {
+   "title": "CISA warns of exploited N-able bug as company restores email platform",
+   "url": "https://therecord.media/cisa-nable-cybersecurity-bug",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T15:00+00:00"
+  },
+  {
+   "title": "Riksrevisionen sågar hanteringen av statens it-system",
+   "url": "https://computersweden.se/article/4252570/riksrevisionen-sagar-hanteringen-av-statens-it-system.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-24T14:56+00:00"
+  },
+  {
+   "title": "Trump avgörande när Jensen Huang åter blev vd för Nvidia",
+   "url": "https://computersweden.se/article/4252599/trump-avgorande-nar-jensen-huang-ater-blev-vd-for-nvidia.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-24T14:55+00:00"
+  },
+  {
+   "title": "Meta omvärderar mål att nå nettonollutsläpp 2030",
+   "url": "https://computersweden.se/article/4252618/meta-omvarderar-mal-att-na-nettonollutslapp-2030.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-24T14:55+00:00"
+  },
+  {
+   "title": "McDonald's Japan data breach exposes customer location information",
+   "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T14:09+00:00"
+  },
+  {
+   "title": "Facit för CERT-SE CTF 2026",
+   "url": "https://www.cert.se/2026/11/facit-for-cert-se-ctf-2026.html",
+   "source": "CERT-SE",
+   "lang": "sv",
+   "topic": "sec",
+   "date": "2026-11-24T14:00+00:00"
+  },
+  {
+   "title": "UK cyber agency seeing ‘marked rise’ in AI-driven attacks",
+   "url": "https://therecord.media/cyberattacks-uk-artificial-intelligence",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T13:45+00:00"
+  },
+  {
+   "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+   "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T13:34+00:00"
+  },
+  {
+   "title": "McDonald’s Japan discloses breach exposing customer purchase and location data",
+   "url": "https://therecord.media/japan-mcdonalds-cyberattack-breach",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T13:00+00:00"
+  },
+  {
+   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+   "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T12:30+00:00"
+  },
+  {
+   "title": "Gartner: Europeiska företag öppnar plånboken för AI-modeller",
+   "url": "https://computersweden.se/article/4252492/gartner-europeiska-foretag-oppnar-planboken-for-ai-modeller.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-24T11:24+00:00"
+  },
+  {
+   "title": "Data centers are getting their own natural gas power plants",
+   "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-24T11:00+00:00"
+  },
+  {
+   "title": "LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data",
+   "url": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-24T00:00+00:00"
-  },
-  {
-   "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-   "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T20:54+00:00"
-  },
-  {
-   "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-   "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T20:00+00:00"
-  },
-  {
-   "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-   "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T19:42+00:00"
-  },
-  {
-   "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-   "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T18:38+00:00"
-  },
-  {
-   "title": "Signal blocks screenshots by Apple, Google operating systems to protect data from AI agents",
-   "url": "https://therecord.media/signal-no-screenshots-by-apple-google-operating-systems",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T18:37+00:00"
-  },
-  {
-   "title": "FBI reportedly facing second data breach involving National Crime Information Center",
-   "url": "https://therecord.media/fbi-cyberattack-data-breach",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T18:30+00:00"
   },
   {
    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -64,46 +128,6 @@
    "lang": "en",
    "topic": "it",
    "date": "2026-11-23T17:36+00:00"
-  },
-  {
-   "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
-   "url": "https://therecord.media/crowdstrike-zscaler",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T17:14+00:00"
-  },
-  {
-   "title": "Jensen Huang tillbaka som vd för Nvidia",
-   "url": "https://computersweden.se/article/4252072/jensen-huang-tillbaka-som-vd-for-nvidia.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-23T14:12+00:00"
-  },
-  {
-   "title": "AI-servrar blir upp till 45 procent dyrare trots att avtal redan tecknats",
-   "url": "https://computersweden.se/article/4252041/ai-servrar-blir-upp-till-45-procent-dyrare-trots-att-avtal-redan-tecknats.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-23T13:46+00:00"
-  },
-  {
-   "title": "Crowdstrike köper Zscaler för 450 miljarder",
-   "url": "https://computersweden.se/article/4252047/crowdstrike-koper-zscaler-for-450-miljarder.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-23T13:45+00:00"
-  },
-  {
-   "title": "Trump hotar stoppa amerikanska AI-datacenter utomlands",
-   "url": "https://computersweden.se/article/4252044/trump-hotar-stoppa-amerikanska-ai-datacenter-utomlands.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-23T13:44+00:00"
   },
   {
    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
@@ -168,30 +192,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-19T11:13+00:00"
-  },
-  {
-   "title": "The AI Hype Index: AI is everywhere",
-   "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-18T14:42+00:00"
-  },
-  {
-   "title": "Allvarlig sårbarhet i Oracle Java",
-   "url": "https://www.cert.se/2026/11/allvarlig-sarbarhet-i-oracle-java.html",
-   "source": "CERT-SE",
-   "lang": "sv",
-   "topic": "sec",
-   "date": "2026-11-18T13:20+00:00"
-  },
-  {
-   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-   "source": "Krebs on Security",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-18T02:52+00:00"
   }
  ]
 }
