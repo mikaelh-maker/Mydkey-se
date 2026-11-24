@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T15:57+00:00",
+ "updated": "2026-11-24T03:20+00:00",
  "items": [
   {
    "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
@@ -10,28 +10,68 @@
    "date": "2026-11-24T00:00+00:00"
   },
   {
-   "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
-   "url": "https://therecord.media/norway-microsoft-cyberattack-equinor",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T15:45+00:00"
-  },
-  {
-   "title": "'Overwhelming' support leads Trump to lock in Davies for national cyber czar",
-   "url": "https://therecord.media/kirsten-davies-trump-intends-nominate-national-cyber-director",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T15:14+00:00"
-  },
-  {
-   "title": "AI Agents Are Creating a Shared Responsibility Gap",
-   "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+   "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+   "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-23T15:00+00:00"
+   "date": "2026-11-23T20:54+00:00"
+  },
+  {
+   "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+   "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-23T20:00+00:00"
+  },
+  {
+   "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+   "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-23T19:42+00:00"
+  },
+  {
+   "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+   "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-23T18:38+00:00"
+  },
+  {
+   "title": "Signal blocks screenshots by Apple, Google operating systems to protect data from AI agents",
+   "url": "https://therecord.media/signal-no-screenshots-by-apple-google-operating-systems",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-23T18:37+00:00"
+  },
+  {
+   "title": "FBI reportedly facing second data breach involving National Crime Information Center",
+   "url": "https://therecord.media/fbi-cyberattack-data-breach",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-23T18:30+00:00"
+  },
+  {
+   "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+   "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-23T17:36+00:00"
+  },
+  {
+   "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
+   "url": "https://therecord.media/crowdstrike-zscaler",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-23T17:14+00:00"
   },
   {
    "title": "Jensen Huang tillbaka som vd för Nvidia",
@@ -66,44 +106,12 @@
    "date": "2026-11-23T13:44+00:00"
   },
   {
-   "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T13:28+00:00"
-  },
-  {
-   "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-   "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T12:02+00:00"
-  },
-  {
-   "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-23T09:11+00:00"
-  },
-  {
    "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
    "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
    "source": "Krebs on Security",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-21T00:36+00:00"
-  },
-  {
-   "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
-   "url": "https://therecord.media/west-virginia-legislature-cyberattack",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-20T21:34+00:00"
   },
   {
    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -176,14 +184,6 @@
    "lang": "sv",
    "topic": "sec",
    "date": "2026-11-18T13:20+00:00"
-  },
-  {
-   "title": "This smell startup says its AI nose is as good as a human’s",
-   "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-18T10:20+00:00"
   },
   {
    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
