@@ -1,29 +1,69 @@
 {
- "updated": "2026-11-24T15:52+00:00",
+ "updated": "2026-11-25T01:25+00:00",
  "items": [
   {
-   "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-   "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+   "title": "Rackspace shuts down Spot cloud platform after security breach",
+   "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-24T15:10+00:00"
+   "date": "2026-11-24T21:37+00:00"
   },
   {
-   "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-   "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T15:01+00:00"
-  },
-  {
-   "title": "CISA warns of exploited N-able bug as company restores email platform",
-   "url": "https://therecord.media/cisa-nable-cybersecurity-bug",
+   "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
+   "url": "https://therecord.media/mycolorado-app-down-data-breach",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-24T15:00+00:00"
+   "date": "2026-11-24T20:52+00:00"
+  },
+  {
+   "title": "New Inception extortion gang launches large-scale vishing campaign",
+   "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T20:21+00:00"
+  },
+  {
+   "title": "California privacy agency director Kemp to leave after two-year tenure",
+   "url": "https://therecord.media/california-privacy-agency-kemp",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T19:30+00:00"
+  },
+  {
+   "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+   "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T18:59+00:00"
+  },
+  {
+   "title": "Radware discloses breach exposing customer cloud access keys",
+   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T17:49+00:00"
+  },
+  {
+   "title": "Lawmakers warn ID verification companies to bolster security after September hack",
+   "url": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T17:49+00:00"
+  },
+  {
+   "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info",
+   "url": "https://therecord.media/carnegie-endowment-data-breach",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-24T16:00+00:00"
   },
   {
    "title": "Riksrevisionen sågar hanteringen av statens it-system",
@@ -50,44 +90,12 @@
    "date": "2026-11-24T14:55+00:00"
   },
   {
-   "title": "McDonald's Japan data breach exposes customer location information",
-   "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T14:09+00:00"
-  },
-  {
    "title": "Facit för CERT-SE CTF 2026",
    "url": "https://www.cert.se/2026/11/facit-for-cert-se-ctf-2026.html",
    "source": "CERT-SE",
    "lang": "sv",
    "topic": "sec",
    "date": "2026-11-24T14:00+00:00"
-  },
-  {
-   "title": "UK cyber agency seeing ‘marked rise’ in AI-driven attacks",
-   "url": "https://therecord.media/cyberattacks-uk-artificial-intelligence",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T13:45+00:00"
-  },
-  {
-   "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-   "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T13:34+00:00"
-  },
-  {
-   "title": "McDonald’s Japan discloses breach exposing customer purchase and location data",
-   "url": "https://therecord.media/japan-mcdonalds-cyberattack-breach",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T13:00+00:00"
   },
   {
    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
@@ -112,14 +120,6 @@
    "lang": "en",
    "topic": "it",
    "date": "2026-11-24T11:00+00:00"
-  },
-  {
-   "title": "LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data",
-   "url": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T00:00+00:00"
   },
   {
    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
