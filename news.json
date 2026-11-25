@@ -1,13 +1,101 @@
 {
- "updated": "2026-11-25T01:25+00:00",
+ "updated": "2026-11-25T15:35+00:00",
  "items": [
   {
-   "title": "Rackspace shuts down Spot cloud platform after security breach",
-   "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+   "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+   "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-24T21:37+00:00"
+   "date": "2026-11-25T15:00+00:00"
+  },
+  {
+   "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+   "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T15:00+00:00"
+  },
+  {
+   "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+   "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T14:29+00:00"
+  },
+  {
+   "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
+   "url": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T13:30+00:00"
+  },
+  {
+   "title": "Cybermyndighet varnar för våg av AI-assisterade cyberattacker",
+   "url": "https://computersweden.se/article/4253024/cybermyndighet-varnar-for-vag-av-ai-assisterade-cyberattacker.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-25T12:10+00:00"
+  },
+  {
+   "title": "Tidal förbjuder AI-musik – raderar miljontals låtar",
+   "url": "https://computersweden.se/article/4253029/tidal-forbjuder-ai-musik-raderar-miljontals-latar.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-25T12:10+00:00"
+  },
+  {
+   "title": "Nybildad hackargrupp har inlett massiv nätfiskekampanj",
+   "url": "https://computersweden.se/article/4253046/nybildad-hackargrupp-har-inlett-massiv-natfiskekampanj.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-25T12:09+00:00"
+  },
+  {
+   "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T11:16+00:00"
+  },
+  {
+   "title": "Treasury's FinCEN takes systems offline after cybersecurity incident",
+   "url": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T10:15+00:00"
+  },
+  {
+   "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T10:10+00:00"
+  },
+  {
+   "title": "AI is straining America’s open records systems",
+   "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-25T10:00+00:00"
+  },
+  {
+   "title": "It-cheferna är inte sålda på resultatbaserad prissättning",
+   "url": "https://computersweden.se/article/4252452/it-cheferna-ar-inte-overtygade-om-resultatbaserad-prissattning-av-programvara.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-25T04:00+00:00"
   },
   {
    "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
@@ -18,76 +106,12 @@
    "date": "2026-11-24T20:52+00:00"
   },
   {
-   "title": "New Inception extortion gang launches large-scale vishing campaign",
-   "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T20:21+00:00"
-  },
-  {
    "title": "California privacy agency director Kemp to leave after two-year tenure",
    "url": "https://therecord.media/california-privacy-agency-kemp",
    "source": "The Record",
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-24T19:30+00:00"
-  },
-  {
-   "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-   "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T18:59+00:00"
-  },
-  {
-   "title": "Radware discloses breach exposing customer cloud access keys",
-   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T17:49+00:00"
-  },
-  {
-   "title": "Lawmakers warn ID verification companies to bolster security after September hack",
-   "url": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T17:49+00:00"
-  },
-  {
-   "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info",
-   "url": "https://therecord.media/carnegie-endowment-data-breach",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T16:00+00:00"
-  },
-  {
-   "title": "Riksrevisionen sågar hanteringen av statens it-system",
-   "url": "https://computersweden.se/article/4252570/riksrevisionen-sagar-hanteringen-av-statens-it-system.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-24T14:56+00:00"
-  },
-  {
-   "title": "Trump avgörande när Jensen Huang åter blev vd för Nvidia",
-   "url": "https://computersweden.se/article/4252599/trump-avgorande-nar-jensen-huang-ater-blev-vd-for-nvidia.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-24T14:55+00:00"
-  },
-  {
-   "title": "Meta omvärderar mål att nå nettonollutsläpp 2030",
-   "url": "https://computersweden.se/article/4252618/meta-omvarderar-mal-att-na-nettonollutslapp-2030.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-24T14:55+00:00"
   },
   {
    "title": "Facit för CERT-SE CTF 2026",
@@ -104,14 +128,6 @@
    "lang": "en",
    "topic": "sec",
    "date": "2026-11-24T12:30+00:00"
-  },
-  {
-   "title": "Gartner: Europeiska företag öppnar plånboken för AI-modeller",
-   "url": "https://computersweden.se/article/4252492/gartner-europeiska-foretag-oppnar-planboken-for-ai-modeller.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-24T11:24+00:00"
   },
   {
    "title": "Data centers are getting their own natural gas power plants",
@@ -170,28 +186,12 @@
    "date": "2026-11-19T12:00+00:00"
   },
   {
-   "title": "A human liver has been kept alive outside the body for a record seven weeks",
-   "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-19T12:00+00:00"
-  },
-  {
    "title": "Allvarliga sårbarheter i NGINX",
    "url": "https://www.cert.se/2026/11/allvarliga-sarbarheter-i-nginx.html",
    "source": "CERT-SE",
    "lang": "sv",
    "topic": "sec",
    "date": "2026-11-19T11:20+00:00"
-  },
-  {
-   "title": "How to tell a cyberattack from a plain old outage",
-   "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-19T11:13+00:00"
   }
  ]
 }
