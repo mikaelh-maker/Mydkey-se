@@ -1,21 +1,109 @@
 {
- "updated": "2026-11-25T15:35+00:00",
+ "updated": "2026-11-26T00:59+00:00",
  "items": [
   {
-   "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-   "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+   "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-25T15:00+00:00"
+   "date": "2026-11-25T22:05+00:00"
   },
   {
-   "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-   "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+   "title": "1Password customer data stolen after employee GitHub account breach",
+   "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-25T15:00+00:00"
+   "date": "2026-11-25T21:33+00:00"
+  },
+  {
+   "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
+   "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T21:18+00:00"
+  },
+  {
+   "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
+   "url": "https://therecord.media/fifa-data-breach-limited",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T20:40+00:00"
+  },
+  {
+   "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+   "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T19:39+00:00"
+  },
+  {
+   "title": "Backblaze explains why it's sharing customer information with advertisers",
+   "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-25T18:38+00:00"
+  },
+  {
+   "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
+   "url": "https://therecord.media/ransomware-doj-indictment-recovery",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T17:30+00:00"
+  },
+  {
+   "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
+   "url": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
+   "source": "The Record",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T17:07+00:00"
+  },
+  {
+   "title": "How data centers are driving a US natural-gas boom",
+   "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "topic": "it",
+   "date": "2026-11-25T17:00+00:00"
+  },
+  {
+   "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-25T16:13+00:00"
+  },
+  {
+   "title": "“Kod röd” hos Microsoft efter stora avbrottet",
+   "url": "https://computersweden.se/article/4253146/kod-rod-hos-microsoft-efter-stora-avbrottet.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-25T15:53+00:00"
+  },
+  {
+   "title": "EU vill satsa över 500 miljarder på kvantteknik",
+   "url": "https://computersweden.se/article/4253158/eu-vill-satsa-over-500-miljarder-pa-kvantteknik.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-25T15:53+00:00"
+  },
+  {
+   "title": "Microsoft 365 Backup utökar fönster från två till tio år",
+   "url": "https://computersweden.se/article/4253202/microsoft-365-backup-utokar-fonster-fran-tva-till-tio-ar.html",
+   "source": "Computer Sweden",
+   "lang": "sv",
+   "topic": "it",
+   "date": "2026-11-25T15:52+00:00"
   },
   {
    "title": "A familiar Iranian hacking group has found a new way to cause chaos",
@@ -26,14 +114,6 @@
    "date": "2026-11-25T14:29+00:00"
   },
   {
-   "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
-   "url": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-25T13:30+00:00"
-  },
-  {
    "title": "Cybermyndighet varnar för våg av AI-assisterade cyberattacker",
    "url": "https://computersweden.se/article/4253024/cybermyndighet-varnar-for-vag-av-ai-assisterade-cyberattacker.html",
    "source": "Computer Sweden",
@@ -42,76 +122,12 @@
    "date": "2026-11-25T12:10+00:00"
   },
   {
-   "title": "Tidal förbjuder AI-musik – raderar miljontals låtar",
-   "url": "https://computersweden.se/article/4253029/tidal-forbjuder-ai-musik-raderar-miljontals-latar.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-25T12:10+00:00"
-  },
-  {
-   "title": "Nybildad hackargrupp har inlett massiv nätfiskekampanj",
-   "url": "https://computersweden.se/article/4253046/nybildad-hackargrupp-har-inlett-massiv-natfiskekampanj.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-25T12:09+00:00"
-  },
-  {
-   "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-25T11:16+00:00"
-  },
-  {
-   "title": "Treasury's FinCEN takes systems offline after cybersecurity incident",
-   "url": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-25T10:15+00:00"
-  },
-  {
-   "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-25T10:10+00:00"
-  },
-  {
    "title": "AI is straining America’s open records systems",
    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
    "source": "MIT Technology Review",
    "lang": "en",
    "topic": "it",
    "date": "2026-11-25T10:00+00:00"
-  },
-  {
-   "title": "It-cheferna är inte sålda på resultatbaserad prissättning",
-   "url": "https://computersweden.se/article/4252452/it-cheferna-ar-inte-overtygade-om-resultatbaserad-prissattning-av-programvara.html",
-   "source": "Computer Sweden",
-   "lang": "sv",
-   "topic": "it",
-   "date": "2026-11-25T04:00+00:00"
-  },
-  {
-   "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
-   "url": "https://therecord.media/mycolorado-app-down-data-breach",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T20:52+00:00"
-  },
-  {
-   "title": "California privacy agency director Kemp to leave after two-year tenure",
-   "url": "https://therecord.media/california-privacy-agency-kemp",
-   "source": "The Record",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-24T19:30+00:00"
   },
   {
    "title": "Facit för CERT-SE CTF 2026",
@@ -162,14 +178,6 @@
    "date": "2026-11-20T20:59+00:00"
   },
   {
-   "title": "The most misunderstood graph in AI just got a major update",
-   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "topic": "it",
-   "date": "2026-11-20T18:15+00:00"
-  },
-  {
    "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
    "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
    "source": "Ars Technica",
@@ -184,14 +192,6 @@
    "lang": "sv",
    "topic": "sec",
    "date": "2026-11-19T12:00+00:00"
-  },
-  {
-   "title": "Allvarliga sårbarheter i NGINX",
-   "url": "https://www.cert.se/2026/11/allvarliga-sarbarheter-i-nginx.html",
-   "source": "CERT-SE",
-   "lang": "sv",
-   "topic": "sec",
-   "date": "2026-11-19T11:20+00:00"
   }
  ]
 }
