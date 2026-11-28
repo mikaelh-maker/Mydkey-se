@@ -1,13 +1,37 @@
 {
- "updated": "2026-11-27T15:03+00:00",
+ "updated": "2026-11-28T00:32+00:00",
  "items": [
   {
-   "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
-   "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+   "title": "pCloud confirms password manager hack after suspicious login alerts",
+   "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
    "source": "BleepingComputer",
    "lang": "en",
    "topic": "sec",
-   "date": "2026-11-27T15:00+00:00"
+   "date": "2026-11-27T19:26+00:00"
+  },
+  {
+   "title": "New Boston Scientific data breach exposes personal, medical info",
+   "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-27T18:57+00:00"
+  },
+  {
+   "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+   "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-27T17:06+00:00"
+  },
+  {
+   "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+   "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "topic": "sec",
+   "date": "2026-11-27T15:09+00:00"
   },
   {
    "title": "AI-attackerna är här nu",
@@ -58,14 +82,6 @@
    "date": "2026-11-27T13:15+00:00"
   },
   {
-   "title": "Microsoft removes WSUS server role in Windows Server 2028",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-27T11:18+00:00"
-  },
-  {
    "title": "Our 2027 Innovators Under 35 competition is now open",
    "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
    "source": "MIT Technology Review",
@@ -74,28 +90,12 @@
    "date": "2026-11-27T10:48+00:00"
   },
   {
-   "title": "Drupal warns of new site takeover flaw exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-27T10:10+00:00"
-  },
-  {
    "title": "How cutting-edge prosthetics can help probe the human mind",
    "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
    "source": "MIT Technology Review",
    "lang": "en",
    "topic": "it",
    "date": "2026-11-27T10:00+00:00"
-  },
-  {
-   "title": "SAP confirms security incident after suspicious GitHub activity",
-   "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "topic": "sec",
-   "date": "2026-11-27T09:56+00:00"
   },
   {
    "title": "Cyberattack disrupts global news distribution platform at France’s AFP",
